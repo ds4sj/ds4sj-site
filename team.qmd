@@ -1,11 +1,19 @@
 ---
-title: "About"
-about:
-  template: marquee
-  image: assets/img/banner.png
+title: "About Us"
 ---
 
-We published this website to accompany our paper "Data Science and Social Justice in the Mathematics Community," which is currently [a preprint on arXiv](https://arxiv.org/abs/2303.09282). 
+We published this website to accompany our paper "Data Science and Social Justice in the Mathematics Community," which is currently [a preprint on arXiv](https://arxiv.org/abs/2303.09282). We are: 
+
+- [Quindel Jones](https://quindeldjones.wixsite.com/quindelj), Virginia Commonwealth University
+- [Andrés R. Vindas Meléndez](https://math.berkeley.edu/~vindas/), UC Berkeley and Harvey Mudd College
+- [Ariana Mendible](https://www.arianamendible.com/), Seattle University
+- [Manuchehr Aminian](https://maminian.github.io/), California State Polytechnica University, Pomona
+- [Heather Zinn Brooks](https://sites.google.com/g.hmc.edu/hzinnbrooks), Harvey Mudd College
+- [Nathan Alexander](https://www.professornaite.com), Morehouse College
+- [Carrie Diaz Eaton](https://inquire.catapult.bates.edu/), Bates College
+- [Philip Chodrow](https://www.philchodrow.com/), Middlebury College
+
+
 
 
 
