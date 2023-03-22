@@ -1,0 +1,8 @@
+---
+title: "Data Science for Social Justice in the Mathematics Community"
+about:
+  template: marquee
+  image: assets/img/banner.png
+---
+
+This sure is a website. 

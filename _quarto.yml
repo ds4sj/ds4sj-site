@@ -1,0 +1,28 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DS4SJ"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - href: notes.qmd
+        text: Notes
+      - href: resources.qmd
+        text: Resources
+
+format:
+  html:
+    theme: 
+      - cosmo
+      - assets/css/custom.scss
+    css: 
+      - assets/css/layouts.css
+      - assets/css/fonts.css
+    toc: true
+
+
+
