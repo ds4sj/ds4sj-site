@@ -70,38 +70,59 @@
     "text": "This website contains resources related to the practice of data science for social justice (DS4SJ) in the mathematical community (broadly construed). It has both a narrow and a broad purpose.\nThe narrow purpose is to accompany the paper “Data Science for Social Justice in the Mathematics Community,” which is currently a preprint on the arXiv. We therefore supply supplementary notes on the paper\nThe broader purpose is to serve as a convenient launch point for those who wish to begin work in DS4SJ. To this end, we offer further resources for those who wish to learn more about the topic, including papers, organizations, and opportunities. We enthusiastically welcome contributions to the resource list.\nThis website is currently in draft form and many components are under construction."
   },
   {
+    "objectID": "resource-pages/pedagogy.html",
+    "href": "resource-pages/pedagogy.html",
+    "title": "Pedagogy",
+    "section": "",
+    "text": "Under construction, contributions welcome!"
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
-    "title": "Further Resources",
+    "title": "Resources",
     "section": "",
     "text": "This page is currently under construction."
   },
   {
+    "objectID": "resources.html#bibliographies",
+    "href": "resources.html#bibliographies",
+    "title": "Resources",
+    "section": "Bibliographies",
+    "text": "Bibliographies"
+  },
+  {
+    "objectID": "resources.html#pedagogical-resources",
+    "href": "resources.html#pedagogical-resources",
+    "title": "Resources",
+    "section": "Pedagogical Resources",
+    "text": "Pedagogical Resources"
+  },
+  {
+    "objectID": "resources.html#resources-for-research-and-scholarship",
+    "href": "resources.html#resources-for-research-and-scholarship",
+    "title": "Resources",
+    "section": "Resources for Research and Scholarship",
+    "text": "Resources for Research and Scholarship"
+  },
+  {
+    "objectID": "resources.html#other-resource-collections",
+    "href": "resources.html#other-resource-collections",
+    "title": "Resources",
+    "section": "Other Resource Collections",
+    "text": "Other Resource Collections"
+  },
+  {
+    "objectID": "resources.html#critical-theory-stuff",
+    "href": "resources.html#critical-theory-stuff",
+    "title": "Resources",
+    "section": "Critical Theory Stuff",
+    "text": "Critical Theory Stuff"
+  },
+  {
     "objectID": "resources.html#organizations",
     "href": "resources.html#organizations",
-    "title": "Further Resources",
+    "title": "Resources",
     "section": "Organizations",
     "text": "Organizations"
-  },
-  {
-    "objectID": "resources.html#papers",
-    "href": "resources.html#papers",
-    "title": "Further Resources",
-    "section": "Papers",
-    "text": "Papers"
-  },
-  {
-    "objectID": "resources.html#bibliographies-and-resource-collections",
-    "href": "resources.html#bibliographies-and-resource-collections",
-    "title": "Further Resources",
-    "section": "Bibliographies and Resource Collections",
-    "text": "Bibliographies and Resource Collections"
-  },
-  {
-    "objectID": "resources.html#etc.",
-    "href": "resources.html#etc.",
-    "title": "Further Resources",
-    "section": "Etc.",
-    "text": "Etc."
   }
 ]

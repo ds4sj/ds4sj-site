@@ -15,8 +15,14 @@ website:
           - acknowledgements.qmd
       - href: notes.qmd
         text: Notes
-      - href: resources.qmd
-        text: Resources
+      - text: Resources
+        menu: 
+          - resource-pages/papers.qmd
+          - resource-pages/pedagogy.qmd
+          - resource-pages/people.qmd
+          - resource-pages/organizations.qmd
+          - resource-pages/theory.qmd
+          - resource-pages/other-resources.qmd
 
 format:
   html:
