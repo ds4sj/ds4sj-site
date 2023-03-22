@@ -1,5 +1,5 @@
 ---
-title: "About Us"
+title: "Author Team"
 ---
 
 We published this website to accompany our paper "Data Science and Social Justice in the Mathematics Community," which is currently [a preprint on arXiv](https://arxiv.org/abs/2303.09282). We are: 

@@ -8,7 +8,7 @@ bibliography: refs.bib
 
 This website contains resources related to the practice of data science for social justice (DS4SJ) in the mathematical community (broadly construed). It has both a narrow and a broad purpose. 
 
-The narrow purpose is to accompany the paper "Data Science for Social Justice in the Mathematics Community" [@jones2023data]. We therefore supply [supplementary notes](notes.qmd) on the paper
+The narrow purpose is to accompany the paper "Data Science for Social Justice in the Mathematics Community," which is currently [a preprint on the arXiv](https://arxiv.org/abs/2303.09282). We therefore supply [supplementary notes](notes.qmd) on the paper
 
 The broader purpose is to serve as a convenient launch point for those who wish to begin work in DS4SJ. To this end, we offer [further resources](resources.qmd) for those who wish to learn more about the topic, including papers, organizations, and opportunities. We enthusiastically welcome [contributions](contributing.qmd) to the resource list. 
 
