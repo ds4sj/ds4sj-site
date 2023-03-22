@@ -22,10 +22,9 @@ format:
   html:
     theme: 
       - cosmo
-      - assets/css/custom.scss
+      - custom.scss
     css: 
-      - assets/css/layouts.css
-      - assets/css/fonts.css
+      - custom.css
     toc: true
 
 
