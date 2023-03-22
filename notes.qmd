@@ -1,78 +1,212 @@
 ---
-title: "Notes on Data Science for Social Justice in the Mathematics Community"
+title: |
+    Notes on "Data Science for Social Justice in the Mathematics Community"
 bibliography: refs.bib
 ---
 
 This page contains notes on the paper "Data Science and Social Justice in the Mathematics Community" [@jones2023data]. The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue. 
 
-## Notes on Section 1
+## Section 1
 
 <table>
     <tr>
         <td class="page-number">
             <b>p. 1</b>
         </td>
-        <td>
-        QSIDE's website is [https://qsideinstitute.org](https://qsideinstitute.org). 
+        <td class="note">
+            QSIDE's website is [https://qsideinstitute.org](https://qsideinstitute.org). 
         </td>
     </tr>
     <tr>
         <td class="page-number">
             <b>p. 1</b>
         </td>
-        <td>
-        See *Flores González vs USA , 2022* for another legal brief by PRACDL supported by data analysis.
+        <td class="note">
+            See *Flores González vs USA , 2022* for another legal brief by PRACDL supported by data analysis.
         </td>
     </tr>
 </table>
 
-## Notes on Section 2
+## Section 2
 
 <table>
     <tr>
         <td class="page-number">
             <b>p. 2</b>
         </td>
-        <td>
-        Data Science For Social Good's website is [https://www.datascienceforsocialgood.org/](https://www.datascienceforsocialgood.org/). 
+        <td class="note">
+            Data Science For Social Good's website is [https://www.datascienceforsocialgood.org/](https://www.datascienceforsocialgood.org/). 
         </td>
     </tr>
     <tr>
         <td class="page-number">
             <b>p. 4</b>
         </td>
-        <td>
-        For more on the origins of the slogan "Nothing about us without us," we refer the reader to @charlton2000nothing. 
+        <td class="note">
+            For more on the origins of the slogan "Nothing about us without us," we refer the reader to @charlton2000nothing. 
         </td>
     </tr>
     <tr>
         <td class="page-number">
             <b>p. 4</b>
         </td>
-        <td>
-        For more on critical theory, especially in its connection to liberatory pedagogy, see @freire1996pedagogy. 
+        <td class="note">
+            For more on critical theory, especially in its connection to liberatory pedagogy, see @freire1996pedagogy. 
         </td>
     </tr>
     <tr>
         <td class="page-number">
             <b>p. 4</b>
         </td>
-        <td>
-        The disproportionate representation of white men in professional mathematics is highlighted in many places, for example [this article](https://www.scientificamerican.com/article/modern-mathematics-confronts-its-white-patriarchal-past/). 
+        <td class="note">
+            The disproportionate representation of white men in professional mathematics is highlighted in many places, for example [this article](https://www.scientificamerican.com/article/modern-mathematics-confronts-its-white-patriarchal-past/). 
         </td>
     </tr>
     <tr>
         <td class="page-number">
             <b>p. 4</b>
         </td>
-        <td>
-        @ho2011trusting considers epistemic humility in another relationship involving experts, the relationship between physicians and disabled patients. 
-        Epistmic humility is also related to *cultural humility*, a concept popularized by @tervalon1998cultural.
+        <td class="note">
+            @ho2011trusting considers epistemic humility in another relationship involving experts, the relationship between physicians and disabled patients. 
+            Epistmic humility is also related to *cultural humility*, a concept popularized by @tervalon1998cultural.
         </td>
     </tr>
-    
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            @alexander2021critical offer further illustrations of interrogating privilege in practice.
+        </td>
+    </tr>
+</table>
+
+## Section 3
+<table>
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            One online database of police violence is the [Mapping Police Violence](https://mappingpoliceviolence.us) project led by Samuel Sinyangwe. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            @ciocanel2020justfair obtain a large data set of federal criminal sentencing records, recorded on [QSIDE's webpage]( https://qsideinstitute.org/research/criminal-justice/justfair/). This data was further analyzed by @smith2021racial.
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            One data set on cultural representation of artists in major US museums was [compiled and released by QSIDE](https://qsideinstitute.org/research/the-arts/diversity-of-artists-in-major-u-s-museums-2019/).
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            @mercier2011humans offer a theory of reasoning as primarily rhetorical rather than deductive, and includes a survey of work studying confirmation bias and other mechanisms that hinder our ability to change our minds in response to evidence. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            Moon Duchin offers a [popular description](https://www.scientificamerican.com/article/geometry-versus-gerrymandering/) of collaborations between metric geometers, legislators, and legal experts in a recent article in *Scientific American*. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            Here is [one amicus brief](https://mggg.org/SCOTUS-MathBrief.pdf) submitted by the Metric Geometry and Gerrymandering Group to the Supreme Court. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 6</b>
+        </td>
+        <td class="note">
+            @pierson2018fast offer additional work on large-scale statistical tests for bias.
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 6</b>
+        </td>
+        <td class="note">
+            @garibay2015stem discusses justice orientation as a promoter of student engagement.
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 6</b>
+        </td>
+        <td class="note">
+            For further suggestions on critical conversations to support justice-oriented mathematics pedagogy, see @alexander2021critical.
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 6</b>
+        </td>
+        <td class="note">
+            Disparity in funding of NIH proposals is studied by @taffe2021equity.
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 6</b>
+        </td>
+        <td class="note">
+            For further critical perspective on the role of justice and equity-oriented data science, see @alexander2022beyond and @castillo2022.
+            @eaton2022teaching offers a detailed description of implementing justice orientation in machine learning pedagogy.
+        </td>
+    </tr>
+</table>
+
+## Section 4
+
+<table>
+    <tr>
+        <td class="page-number">
+            <b>p. 8</b>
+        </td>
+        <td class="note">
+            The preprint referred to by Andrés R. Vindas Meléndez is @defs. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 9</b>
+        </td>
+        <td class="note">
+            Another important limitation of the automated gender inference methods described in Heather Zinn Brooks' vignette is the Euro- and US-centrism of most commercially available algorithms, including the ones we used. 
+            For a review of these biases and limitations, see @santamaria2018comparison. 
+        </td>
+    </tr>
+</table>
+
+## Section 5
+
+<table>
+    <tr>
+        <td class="page-number">
+            <b>p. 10</b>
+        </td>
+        <td class="note">
+            Other examples include a recent workshop on Mathematics and Racial Justice at the Mathematical Sciences Research Institute (MSRI), the upcoming workshop on Interdisciplinary and Critical Data Science Motivated by Social Justice at the Institute for Mathematical and Statistical Innovation, and the second part of the program on Data Science and Social Justice at the Institute for Computational and Experimental Research in Mathematics. We also note the long-standing annual Critical Inquiry in Mathematics Education conference at MSRI.
+        </td>
+    </tr>
 </table>
  
-
-
 

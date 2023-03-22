@@ -22,6 +22,12 @@ td {
 
 .page-number{
     min-width: 3em;
+    vertical-align: top;
+    padding-bottom: .5em;
+}
+
+.note { 
+  padding-bottom: .5em;
 }
 
 .float-left { 
