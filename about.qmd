@@ -1,8 +1,0 @@
----
-title: "About"
-about:
-  template: marquee
-  image: assets/img/banner.png
----
-
-About this site

@@ -1,0 +1,17 @@
+---
+title: "Contributing"
+---
+
+To contribute to this website, you may do one of two things: 
+
+1. The preferred method is to submit a pull request on GitHub: 
+    - Navigate to the site's [GitHub repository](https://github.com/ds4sj/ds4sj.github.io). 
+    - Identify the page on which you would like to contribute. Common choices: 
+        - [Resources](https://github.com/ds4sj/ds4sj.github.io/blob/main/resources.qmd)
+        - [About](https://github.com/ds4sj/ds4sj.github.io/blob/main/about.qmd)
+        - [Notes](https://github.com/ds4sj/ds4sj.github.io/blob/main/notes.qmd)
+    - Edit the content through the GitHub interface. 
+    - Submit a pull request with your changes when you are finished. 
+    - We will review and deploy your contribution when we can! 
+2. (Advanced): you may fork the entire site and submit a pull request. This is the best approach if you have many changes. 
+3. If you are not able to submit a pull request on GitHub, you may [email Phil Chodrow](mailto:pchodrow@middlebury.edu) with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates. 

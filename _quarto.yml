@@ -8,7 +8,11 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - text: About
+        menu: 
+          - contributing.qmd
+          - team.qmd
+          - acknowledgements.qmd
       - href: notes.qmd
         text: Notes
       - href: resources.qmd

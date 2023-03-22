@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DS4SJ - Data Science for Social Justice in the Mathematics Community</title>
+<title>DS4SJ - Contributing</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -33,6 +33,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -63,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="assets/css/fonts.css">
 </head>
 
-<body class="nav-fixed fullcontent">
+<body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -80,7 +81,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">
+    <a class="nav-link" href="./index.html">
  <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -120,27 +121,51 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        
+    </div>
 <!-- main -->
-<div class="quarto-about-marquee">
-  <div class="about-image-container">
-    <img src="assets/img/banner.png" class="about-image " style="width: 100%;">
-  </div>
-  <div class="about-contents">
-    <header id="title-block-header" class="quarto-title-block default">
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Data Science for Social Justice in the Mathematics Community</h1>
+<h1 class="title">Contributing</h1>
 </div>
+
+
+
 <div class="quarto-title-meta">
+
+    
+  
+    
   </div>
-</header> <main class="content" id="quarto-document-content">
-<p>This sure is a website.</p>
+  
+
+</header>
+
+<p>To contribute to this website, you may do one of two things:</p>
+<ol type="1">
+<li>The preferred method is to submit a pull request on GitHub:
+<ul>
+<li>Navigate to the site’s <a href="https://github.com/ds4sj/ds4sj.github.io">GitHub repository</a>.</li>
+<li>Identify the page on which you would like to contribute. Common choices:
+<ul>
+<li><a href="https://github.com/ds4sj/ds4sj.github.io/blob/main/resources.qmd">Resources</a></li>
+<li><a href="https://github.com/ds4sj/ds4sj.github.io/blob/main/about.qmd">About</a></li>
+<li><a href="https://github.com/ds4sj/ds4sj.github.io/blob/main/notes.qmd">Notes</a></li>
+</ul></li>
+<li>Edit the content through the GitHub interface.</li>
+<li>Submit a pull request with your changes when you are finished.</li>
+<li>We will review and deploy your contribution when we can!</li>
+</ul></li>
+<li>(Advanced): you may fork the entire site and submit a pull request. This is the best approach if you have many changes.</li>
+<li>If you are not able to submit a pull request on GitHub, you may <a href="mailto:pchodrow@middlebury.edu">email Phil Chodrow</a> with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates.</li>
+</ol>
 
 
-</main> 
-  </div>
-</div>
- <!-- /main -->
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -161,6 +186,13 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

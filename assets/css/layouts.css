@@ -18,6 +18,9 @@ td {
     }
   }
 
+.page-number{
+    min-width: 3em;
+}
 
 .float-left { 
     float: left;
@@ -32,7 +35,7 @@ td {
     margin-top: 0%;
     margin-bottom: 1%;
   }
-  
+
 .img-responsive {
     width: 25%;
 }

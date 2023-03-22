@@ -1,4 +1,78 @@
 ---
 title: "Notes on Data Science for Social Justice in the Mathematics Community"
+bibliography: refs.bib
 ---
+
+This page contains notes on the paper "Data Science and Social Justice in the Mathematics Community" [@jones2023data]. The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue. 
+
+## Notes on Section 1
+
+<table>
+    <tr>
+        <td class="page-number">
+            <b>p. 1</b>
+        </td>
+        <td>
+        QSIDE's website is [https://qsideinstitute.org](https://qsideinstitute.org). 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 1</b>
+        </td>
+        <td>
+        See *Flores González vs USA , 2022* for another legal brief by PRACDL supported by data analysis.
+        </td>
+    </tr>
+</table>
+
+## Notes on Section 2
+
+<table>
+    <tr>
+        <td class="page-number">
+            <b>p. 2</b>
+        </td>
+        <td>
+        Data Science For Social Good's website is [https://www.datascienceforsocialgood.org/](https://www.datascienceforsocialgood.org/). 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 4</b>
+        </td>
+        <td>
+        For more on the origins of the slogan "Nothing about us without us," we refer the reader to @charlton2000nothing. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 4</b>
+        </td>
+        <td>
+        For more on critical theory, especially in its connection to liberatory pedagogy, see @freire1996pedagogy. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 4</b>
+        </td>
+        <td>
+        The disproportionate representation of white men in professional mathematics is highlighted in many places, for example [this article](https://www.scientificamerican.com/article/modern-mathematics-confronts-its-white-patriarchal-past/). 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
+            <b>p. 4</b>
+        </td>
+        <td>
+        @ho2011trusting considers epistemic humility in another relationship involving experts, the relationship between physicians and disabled patients. 
+        Epistmic humility is also related to *cultural humility*, a concept popularized by @tervalon1998cultural.
+        </td>
+    </tr>
+    
+</table>
+ 
+
+
 

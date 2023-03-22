@@ -1,5 +1,47 @@
 [
   {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes on Data Science for Social Justice in the Mathematics Community",
+    "section": "",
+    "text": "This page contains notes on the paper “Data Science and Social Justice in the Mathematics Community” (Jones et al. 2023). The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue."
+  },
+  {
+    "objectID": "notes.html#notes-on-section-1",
+    "href": "notes.html#notes-on-section-1",
+    "title": "Notes on Data Science for Social Justice in the Mathematics Community",
+    "section": "Notes on Section 1",
+    "text": "Notes on Section 1\n\n\n\n\np. 1\n\n\nQSIDE’s website is https://qsideinstitute.org.\n\n\n\n\np. 1\n\n\nSee Flores González vs USA , 2022 for another legal brief by PRACDL supported by data analysis."
+  },
+  {
+    "objectID": "notes.html#notes-on-section-2",
+    "href": "notes.html#notes-on-section-2",
+    "title": "Notes on Data Science for Social Justice in the Mathematics Community",
+    "section": "Notes on Section 2",
+    "text": "Notes on Section 2\n\n\n\n\np. 2\n\n\nData Science For Social Good’s website is https://www.datascienceforsocialgood.org/.\n\n\n\n\np. 4\n\n\nFor more on the origins of the slogan “Nothing about us without us,” we refer the reader to Charlton (2000).\n\n\n\n\np. 4\n\n\nFor more on critical theory, especially in its connection to liberatory pedagogy, see Freire (1996).\n\n\n\n\np. 4\n\n\nThe disproportionate representation of white men in professional mathematics is highlighted in many places, for example this article.\n\n\n\n\np. 4\n\n\nHo (2011) considers epistemic humility in another relationship involving experts, the relationship between physicians and disabled patients. Epistmic humility is also related to cultural humility, a concept popularized by Tervalon and Murray-Garcia (1998)."
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "To contribute to this website, you may do one of two things:\n\nThe preferred method is to submit a pull request on GitHub:\n\nNavigate to the site’s GitHub repository.\nIdentify the page on which you would like to contribute. Common choices:\n\nResources\nAbout\nNotes\n\nEdit the content through the GitHub interface.\nSubmit a pull request with your changes when you are finished.\nWe will review and deploy your contribution when we can!\n\n(Advanced): you may fork the entire site and submit a pull request. This is the best approach if you have many changes.\nIf you are not able to submit a pull request on GitHub, you may email Phil Chodrow with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "About",
+    "section": "",
+    "text": "We published this website to accompany our paper “Data Science and Social Justice in the Mathematics Community,” which is currently a preprint on arXiv."
+  },
+  {
+    "objectID": "acknowledgements.html",
+    "href": "acknowledgements.html",
+    "title": "Gratitude",
+    "section": "",
+    "text": "People\nOrganizations\nImage rights\nQuarto"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Data Science for Social Justice in the Mathematics Community",
@@ -7,10 +49,24 @@
     "text": "This sure is a website."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Further Resources",
     "section": "",
-    "text": "About this site"
+    "text": "QSIDE\nJMC\nNAM\nSACNAS"
+  },
+  {
+    "objectID": "resources.html#papers",
+    "href": "resources.html#papers",
+    "title": "Further Resources",
+    "section": "Papers",
+    "text": "Papers"
+  },
+  {
+    "objectID": "resources.html#etc.",
+    "href": "resources.html#etc.",
+    "title": "Further Resources",
+    "section": "Etc.",
+    "text": "Etc."
   }
 ]
