@@ -1,4 +1,21 @@
 ---
 title: People
+bibliography: ../refs.bib
 ---
 
+This is a list of people contributing to data science for social justice in the mathematics community. This page is under construction.
+
+### [Philip Chodrow](https://www.philchodrow.com/)
+Assistant Professor of Computer Science at Middlebury College
+
+Citations/Links: [@jones2023data]
+
+### [Carrie Diaz Eaton](https://inquire.catapult.bates.edu/)
+Associate Professor of Digital and Computational Studies, Bates College
+
+Citations/Links:
+
+### [Chad Topaz](https://chadtopaz.com/)
+Co-founder and Executive Director of QSIDE, Professor of Complex Systems at Williams College
+
+Citations/Links:

@@ -70,6 +70,13 @@
     "text": "This website contains resources related to the practice of data science for social justice (DS4SJ) in the mathematical community (broadly construed). It has both a narrow and a broad purpose.\nThe narrow purpose is to accompany the paper “Data Science for Social Justice in the Mathematics Community,” which is currently a preprint on the arXiv. We therefore supply supplementary notes on the paper\nThe broader purpose is to serve as a convenient launch point for those who wish to begin work in DS4SJ. To this end, we offer further resources for those who wish to learn more about the topic, including papers, organizations, and opportunities. We enthusiastically welcome contributions to the resource list.\nThis website is currently in draft form and many components are under construction."
   },
   {
+    "objectID": "resource-pages/people.html",
+    "href": "resource-pages/people.html",
+    "title": "People",
+    "section": "",
+    "text": "This is a list of people contributing to data science for social justice in the mathematics community. This page is under construction.\n\nPhilip Chodrow\nAssistant Professor of Computer Science at Middlebury College\nCitations/Links: (Jones et al. 2023)\n\n\nCarrie Diaz Eaton\nAssociate Professor of Digital and Computational Studies, Bates College\nCitations/Links:\n\n\nChad Topaz\nCo-founder and Executive Director of QSIDE, Professor of Complex Systems at Williams College\nCitations/Links:\n\n\n\n\n\nReferences\n\nJones, Quindel, Andrés R Vindas Meléndez, Ariana Mendible, Manuchehr Aminian, Heather Z Brooks, Nathan Alexander, Carrie Diaz Eaton, and Philip Chodrow. 2023. “Data Science and Social Justice in the Mathematics Community.” arXiv Preprint arXiv:2303.09282."
+  },
+  {
     "objectID": "resource-pages/pedagogy.html",
     "href": "resource-pages/pedagogy.html",
     "title": "Pedagogy",
