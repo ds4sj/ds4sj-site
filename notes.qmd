@@ -40,6 +40,14 @@ This page contains notes on the paper "Data Science and Social Justice in the Ma
     </tr>
     <tr>
         <td class="page-number">
+            <b>p. 3</b>
+        </td>
+        <td class="note">
+            Following [decision of the Associated Press](https://blog.ap.org/announcements/why-we-will-lowercase-white), we capitalize "Black" and do not capitalize "white" when referring to racial identities. 
+        </td>
+    </tr>
+    <tr>
+        <td class="page-number">
             <b>p. 4</b>
         </td>
         <td class="note">
@@ -83,6 +91,14 @@ This page contains notes on the paper "Data Science and Social Justice in the Ma
 
 ## Section 3
 <table>
+    <tr>
+        <td class="page-number">
+            <b>p. 5</b>
+        </td>
+        <td class="note">
+            For more on Ida B. Wells, we refer the reader to her story in her own words [@wells2020crusade]. 
+        </td>
+    </tr>
     <tr>
         <td class="page-number">
             <b>p. 5</b>

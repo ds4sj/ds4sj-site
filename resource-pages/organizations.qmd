@@ -1,3 +1,21 @@
 ---
 title: "Organizations"
 ---
+
+## Organizations Working on DS4SJ
+
+- [The Institute for the Quantitative Study of Inclusion, Diversity, and Equity (QSIDE)](https://qsideinstitute.org/)
+
+## Justice, Equity, Diversity, and Inclusion in the Broader Mathematics Community
+
+- [The Society of Women in Network Science](https://sites.google.com/view/womeninnetworkscience/)
+- [The Just Mathematics Collective](https://www.justmathematicscollective.net/)
+- [The National Association of Mathematicians](https://www.nam-math.org/)
+- [The Association for Women in Mathematics](https://awm-math.org/)
+
+## Recent Events
+
+- [Data Science and Social Justice: Networks, Policy, and Education](https://icerm.brown.edu/programs/ep-22-dssj/) at the [Institute for Computational and Experimental Research in Mathematics](https://icerm.brown.edu/) (2022-23)
+- [Interdisciplinary and Critical Data Science Motivated by Social Justice](https://www.imsi.institute/activities/data-science-motivated-by-social-justice/) at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/) (2023)
+
+
