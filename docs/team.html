@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>DS4SJ - Author Team</title>
+<title>DS4SJ - Team</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -58,7 +60,38 @@ ul.task-list li input[type="checkbox"] {
     "search-submit-button-title": "Submit"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-team .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-subtitle','listing-categories','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-subtitle","listing-categories","listing-image"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-team'] = new List('listing-team', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <link rel="stylesheet" href="custom.css">
 </head>
@@ -95,7 +128,7 @@ ul.task-list li input[type="checkbox"] {
   </li>  
         <li>
     <a class="dropdown-item" href="./team.html" rel="" target="">
- <span class="dropdown-text">Author Team</span></a>
+ <span class="dropdown-text">Team</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="./acknowledgements.html" rel="" target="">
@@ -151,13 +184,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
         
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(8)</span></div><div class="category" data-category="combinatorics">combinatorics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="criminal justice">criminal justice <span class="quarto-category-count">(1)</span></div><div class="category" data-category="critical perspectives">critical perspectives <span class="quarto-category-count">(2)</span></div><div class="category" data-category="data science">data science <span class="quarto-category-count">(5)</span></div><div class="category" data-category="dynamical systems">dynamical systems <span class="quarto-category-count">(3)</span></div><div class="category" data-category="math modeling">math modeling <span class="quarto-category-count">(5)</span></div><div class="category" data-category="mathematical biology">mathematical biology <span class="quarto-category-count">(2)</span></div><div class="category" data-category="network science">network science <span class="quarto-category-count">(1)</span></div><div class="category" data-category="pedagogy">pedagogy <span class="quarto-category-count">(2)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Author Team</h1>
+<h1 class="title">Team</h1>
 </div>
 
 
@@ -173,16 +206,232 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 <p>We published this website to accompany our paper “Data Science and Social Justice in the Mathematics Community,” which is currently <a href="https://arxiv.org/abs/2303.09282">a preprint on arXiv</a>. We are:</p>
-<ul>
-<li><a href="https://quindeldjones.wixsite.com/quindelj">Quindel Jones</a>, Virginia Commonwealth University</li>
-<li><a href="https://math.berkeley.edu/~vindas/">Andrés R. Vindas Meléndez</a>, UC Berkeley and Harvey Mudd College</li>
-<li><a href="https://www.arianamendible.com/">Ariana Mendible</a>, Seattle University</li>
-<li><a href="https://maminian.github.io/">Manuchehr Aminian</a>, California State Polytechnica University, Pomona</li>
-<li><a href="https://sites.google.com/g.hmc.edu/hzinnbrooks">Heather Zinn Brooks</a>, Harvey Mudd College</li>
-<li><a href="https://www.professornaite.com">Nathan Alexander</a>, Morehouse College</li>
-<li><a href="https://inquire.catapult.bates.edu/">Carrie Diaz Eaton</a>, Bates College</li>
-<li><a href="https://www.philchodrow.com/">Philip Chodrow</a>, Middlebury College</li>
-</ul>
+<div id="listing-team" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="math modeling,dynamical systems,mathematical biology">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://static.wixstatic.com/media/b0a5f5_d4d3f60b575348a9a4549a0eccc3e53e~mv2.jpg/v1/crop/x_96,y_0,w_1189,h_1284/fill/w_704,h_760,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/qj_nov21_edited.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://quindeldjones.wixsite.com/quindelj">Quindel Jones</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+Virginia Commonwealth University
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('math modeling'); return false;">
+math modeling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('dynamical systems'); return false;">
+dynamical systems
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mathematical biology'); return false;">
+mathematical biology
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="g-col-1" data-index="1" data-categories="combinatorics,data science">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://math.berkeley.edu/~vindas/images/87130006.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://math.berkeley.edu/~vindas/">Andrés R. Vindas Meléndez</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+UC Berkeley and Harvey Mudd
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('combinatorics'); return false;">
+combinatorics
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="g-col-1" data-index="2" data-categories="math modeling,data science,criminal justice">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://mendible.github.io/images/profile_square.png" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://www.arianamendible.com/">Ariana Mendible</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+Seattle University
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('math modeling'); return false;">
+math modeling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('criminal justice'); return false;">
+criminal justice
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="g-col-1" data-index="3" data-categories="math modeling,dynamical systems,mathematical biology">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://www.hmc.edu/mathematics/wp-content/uploads/sites/49/2022/07/ZBHeather-768x660.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://sites.google.com/g.hmc.edu/hzinnbrooks">Heather Zinn Brooks</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+Harvey Mudd College
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('math modeling'); return false;">
+math modeling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('dynamical systems'); return false;">
+dynamical systems
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('mathematical biology'); return false;">
+mathematical biology
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="g-col-1" data-index="4" data-categories="math modeling,dynamical systems">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&amp;user=oCZb5v8AAAAJ&amp;citpid=2" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://maminian.github.io/">Manuchehr Aminian</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+California State Polytechnic University, Pomona
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('math modeling'); return false;">
+math modeling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('dynamical systems'); return false;">
+dynamical systems
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="g-col-1" data-index="5" data-categories="data science,critical perspectives,pedagogy">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://morehouse.edu/wp-content/uploads/2022/02/IMG_1063-scaled-1.jpeg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://www.professornaite.com/">Nathan Alexander</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+Morehouse College
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('critical perspectives'); return false;">
+critical perspectives
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pedagogy'); return false;">
+pedagogy
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="g-col-1" data-index="6" data-categories="math modeling,data science,critical perspectives,pedagogy">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://pbs.twimg.com/profile_images/1084260396016586753/s2Yrn1yl_400x400.jpg" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://inquire.catapult.bates.edu/"> Carrie Diaz Eaton</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+Bates College
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('math modeling'); return false;">
+math modeling
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('critical perspectives'); return false;">
+critical perspectives
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pedagogy'); return false;">
+pedagogy
+</div>
+</div>
+</div>
+</div>
+
+</div>
+<div class="g-col-1" data-index="7" data-categories="network science,data science">
+<a href="" class="quarto-grid-link">
+</a><div class="quarto-grid-item card h-100 card-left"><a href="" class="quarto-grid-link">
+<p class="card-img-top">
+<img src="https://github.com/PhilChodrow/philchodrow.github.io/blob/main/assets/img/portrait.png?raw=true" class="thumbnail-image card-img" style="height: 225px;">
+</p>
+</a><div class="card-body post-contents"><a href="" class="quarto-grid-link">
+</a><h5 class="no-anchor card-title listing-title"><a href="" class="quarto-grid-link">
+</a><a href="https://www.philchodrow.com"> Phil Chodrow</a>
+</h5>
+<div class="card-subtitle listing-subtitle">
+Middlebury College
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('network science'); return false;">
+network science
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('data science'); return false;">
+data science
+</div>
+</div>
+</div>
+</div>
+
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+
 
 
 

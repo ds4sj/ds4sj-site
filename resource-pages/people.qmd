@@ -2,9 +2,9 @@
 title: People
 bibliography: ../refs.bib
 ---
-
-Under construction. 
-
+ 
+# This page is under construction
+       
 <!-- This is a list of people contributing to data science for social justice in the mathematics community. This page is under construction.
 
 ### [Philip Chodrow](https://www.philchodrow.com/)

@@ -1,3 +1,0 @@
----
-title: "Notes on Data Science for Social Justice in the Mathematics Community"
----
