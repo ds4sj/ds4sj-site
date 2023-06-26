@@ -1,26 +1,10 @@
 - title: <a href="https://www.ds4sj.net">Some Book</a>
   categories: [calculus, textbook, environment]
   author: [a person, a second person, a third person]
-  # cost: free
   description: "this one costs $"
   image: "https://www.shutterstock.com/image-vector/math-book-blue-covers-word-260nw-229009651.jpg"
 - title: <a href="https://www.ds4sj.net">Some Other Book</a>
   author: [a person, a second person]
   categories: [more calculus, online, criminal justice]
-  # cost: free
   description: "this one is free"
-  image: "https://www.shutterstock.com/image-vector/math-book-blue-covers-word-260nw-229009651.jpg"
-
-# - title: <a href="https://www.ds4sj.net">Some Important Book</a>
-#   author: [a person]
-#   categories: [textbook, justice]
-#   # cost: free
-#   description: |
-#     this one is free <a href="https://www.ds4sj.net">a link</a> <a href="https://www.ds4sj.net">another link </a>
-#   image: "https://www.shutterstock.com/image-vector/math-book-blue-covers-word-260nw-229009651.jpg"
-# - title: <a href="https://www.ds4sj.net">Some Important Book</a>
-#   author: [a person]
-#   categories: [textbook, injustice]
-#   # cost: free
-#   description: "we have an awful lot to say about this one. we have an awful lot to say about this one. we have an awful lot to say about this one. we have an awful lot to say about this one."
-#   image: "https://www.shutterstock.com/image-vector/math-book-blue-covers-word-260nw-229009651.jpg"
+  image: "../assets/img/banner.png"
