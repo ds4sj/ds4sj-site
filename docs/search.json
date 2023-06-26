@@ -109,7 +109,14 @@
     "href": "resource-pages/pedagogy.html",
     "title": "Pedagogy",
     "section": "",
-    "text": "An example for populating stuff! Add data in the file data/textbooks.yaml.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSome Book\n\n\n\ncalculus\n\n\ntextbook\n\n\nenvironment\n\n\n\nthis one costs $\n\n\n\na person, a second person, a third person\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome Other Book\n\n\n\nmore calculus\n\n\nonline\n\n\ncriminal justice\n\n\n\nthis one is free\n\n\n\na person, a second person\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Hello and welcome to this Pedagogy page. The goal of this page is to create a resource for those of us in higher ed that would like to integrate work in Social Justice into our math, stats, and data science courses. We are indebted to and model this work after the K-12 educators (e.g. Bob Moses, Jonathan Osler). For K-12 resources, see for example the updated version of the venerable Radical Math website.\nYou’ll find here a google drive of open source resources curated by Kenan Ince for teaching Social Justice in mathematics. We’ll be trying to build on their work and making a more easy to use resource for educators. Teaching Postsecondary Mathematics for Social Justice resource folder. We recommend starting from here if you’re new to teaching social justice in your courses."
+  },
+  {
+    "objectID": "resource-pages/pedagogy.html#how-to-update-this-page",
+    "href": "resource-pages/pedagogy.html#how-to-update-this-page",
+    "title": "Pedagogy",
+    "section": "How to update this page",
+    "text": "How to update this page\nAn example for populating stuff! Add data in the file data/textbooks.yaml."
   },
   {
     "objectID": "resource-pages/organizations.html",
