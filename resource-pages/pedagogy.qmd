@@ -3,3 +3,9 @@ title: Pedagogy
 ---
 
 Under construction, contributions welcome! 
+
+Hello and welcome to this Pedagogy page. The goal of this page is to create a resource for those of us in higher ed that would like to integrate work in Social Justice into our math, stats, and data science courses. We are indebted to and model this work after the K-12 educators (e.g. [Bob Moses](https://rethinkingschools.org/articles/radical-equations/), [Jonathan Osler](https://www.jonathanosler.com/)). For K-12 resources, see for example the [updated version](https://www.radicalmath.org/search) of the venerable Radical Math website.
+
+
+You'll find here a google drive of open source resources curated by Kenan Ince for teaching Social Justice in mathematics. We'll be trying to build on their work and making a more easy to use resource for educators. 
+[Teaching Postsecondary Mathematics for Social Justice resource folder](http://tinyurl.com/CollegeMathforSJ). We recommend starting from [here](https://docs.google.com/document/d/1hKXmPoo5hQUDBQsAP-2SvXQ5BJf0D_2fIMQevG-gNUQ/edit?usp=drive_link_) if you're new to teaching social justice in your courses. 
