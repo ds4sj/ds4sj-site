@@ -12,7 +12,7 @@ listing:
   image-height: 225px
   field-display-names:
     title: "Name"
-    affiliation: " "
+    cost: " "
     department: " "
     website: "  "
 ---

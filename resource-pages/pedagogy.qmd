@@ -1,5 +1,19 @@
 ---
 title: Pedagogy
+listing: 
+  id: team
+  sort-ui: [type, math-content]
+  filter-ui: true
+  contents:  
+    - ../data/textbooks.yaml
+  type: grid   
+  categories: true
+  image-align: left
 ---
 
-Under construction, contributions welcome! 
+An example for populating stuff! Add data in the file `data/textbooks.yaml`. 
+
+
+::: {#textbooks}
+:::   
+

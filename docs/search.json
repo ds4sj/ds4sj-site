@@ -109,7 +109,7 @@
     "href": "resource-pages/pedagogy.html",
     "title": "Pedagogy",
     "section": "",
-    "text": "Under construction, contributions welcome!"
+    "text": "An example for populating stuff! Add data in the file data/textbooks.yaml.\n\n\n\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nSome Book\n\n\n\ncalculus\n\n\ntextbook\n\n\nenvironment\n\n\n\nthis one costs $\n\n\n\na person, a second person, a third person\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSome Other Book\n\n\n\nmore calculus\n\n\nonline\n\n\ncriminal justice\n\n\n\nthis one is free\n\n\n\na person, a second person\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "resource-pages/organizations.html",
