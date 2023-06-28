@@ -22,4 +22,5 @@ We published this website to accompany our paper "Data Science and Social Justic
 ::: {#team}
 :::   
 
+My name is Joe Hibdon and I edited this file on June 28, 2023.
       
