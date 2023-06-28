@@ -13,9 +13,11 @@ The narrow purpose is to accompany the paper "Data Science for Social Justice in
 The broader purpose is to serve as a convenient launch point for those who wish to begin work in DS4SJ. To this end, we offer [further resources](resources.qmd) for those who wish to learn more about the topic, including papers, organizations, and opportunities. We enthusiastically welcome [contributions](contributing.qmd) to the resource list. 
 
 
-
 This website is currently in draft form and many components are under construction. 
 
 
-
+# Here's a list of cool stuff
+- one [this is a cool link](www.ds4sj.net)
+- two
+- three
 
