@@ -7,6 +7,10 @@ title: "Other Resources"
 - The 2021 [MSRI Workshop on Mathematics and Racial Justice](https://www.msri.org/workshops/1012) collected a [list of resources](https://docs.google.com/document/d/1-40eCiJdlOIxDWnALv-kqO5-0c5NH1M857-_kTj-GeE/edit?usp=sharing) on mathematics and racial justice, including books, journal articles, organizations, and data sets. They also published [a compendium](http://library.msri.org/msri/Math-and-Racial-Justice.pdf) of their work. 
 - [Allison Miller](https://sites.google.com/view/anmiller/) (Swarthmore College) maintains an annotated list of [resources on ethics in mathematics](https://docs.google.com/document/d/1P4xAUa9qfEbeCjurGOdJH3dW2JErVRJZ1K9DLAT8uYE/edit). 
 
+## Courses
+
+- [Calling Bullshit](https://callingbullshit.org/index.html), a course by Carl Bergstrom and Jevin West at the University of Washington. 
+
 ## Books and Articles
 
 - [*Weapons of Math Destruction*](https://bookshop.org/books/weapons-of-math-destruction-how-big-data-increases-inequality-and-threatens-democracy/9780553418835) by Cathy O'Neil.
