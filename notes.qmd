@@ -4,7 +4,7 @@ title: |
 bibliography: refs.bib
 ---
 
-This page contains notes on the paper "Data Science and Social Justice in the Mathematics Community" [@jones2023data]. The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue. 
+This page contains notes on the paper "Data Science and Social Justice in the Mathematics Community" [@jones2023data]. The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue.  
 
 ## Section 1
 

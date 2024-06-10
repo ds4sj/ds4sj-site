@@ -1,152 +1,5 @@
 [
   {
-    "objectID": "notes.html",
-    "href": "notes.html",
-    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
-    "section": "",
-    "text": "This page contains notes on the paper “Data Science and Social Justice in the Mathematics Community” (Jones et al. 2023). The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue."
-  },
-  {
-    "objectID": "notes.html#section-1",
-    "href": "notes.html#section-1",
-    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
-    "section": "Section 1",
-    "text": "Section 1\n\n\n\n\np. 1\n\n\nQSIDE’s website is https://qsideinstitute.org.\n\n\n\n\np. 1\n\n\nSee Flores González vs USA , 2022 for another legal brief by PRACDL supported by data analysis."
-  },
-  {
-    "objectID": "notes.html#section-2",
-    "href": "notes.html#section-2",
-    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
-    "section": "Section 2",
-    "text": "Section 2\n\n\n\n\np. 2\n\n\nData Science For Social Good’s website is https://www.datascienceforsocialgood.org/.\n\n\n\n\np. 3\n\n\nFollowing decision of the Associated Press, we capitalize “Black” and do not capitalize “white” when referring to racial identities.\n\n\n\n\np. 4\n\n\nFor more on the origins of the slogan “Nothing about us without us,” we refer the reader to Charlton (2000).\n\n\n\n\np. 4\n\n\nFor more on critical theory, especially in its connection to liberatory pedagogy, see Freire (1996).\n\n\n\n\np. 4\n\n\nThe disproportionate representation of white men in professional mathematics is highlighted in many places, for example this article.\n\n\n\n\np. 4\n\n\nHo (2011) considers epistemic humility in another relationship involving experts, the relationship between physicians and disabled patients. Epistmic humility is also related to cultural humility, a concept popularized by Tervalon and Murray-Garcia (1998).\n\n\n\n\np. 5\n\n\nN. N. Alexander, Teymuroglu, and Yerger (2021) offer further illustrations of interrogating privilege in practice."
-  },
-  {
-    "objectID": "notes.html#section-3",
-    "href": "notes.html#section-3",
-    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
-    "section": "Section 3",
-    "text": "Section 3\n\n\n\n\np. 5\n\n\nFor more on Ida B. Wells, we refer the reader to her story in her own words (Wells 2020).\n\n\n\n\np. 5\n\n\nOne online database of police violence is the Mapping Police Violence project led by Samuel Sinyangwe.\n\n\n\n\np. 5\n\n\nCiocanel et al. (2020) obtain a large data set of federal criminal sentencing records, recorded on QSIDE’s webpage. This data was further analyzed by Smith et al. (2021).\n\n\n\n\np. 5\n\n\nOne data set on cultural representation of artists in major US museums was compiled and released by QSIDE.\n\n\n\n\np. 5\n\n\nMercier and Sperber (2011) offer a theory of reasoning as primarily rhetorical rather than deductive, and includes a survey of work studying confirmation bias and other mechanisms that hinder our ability to change our minds in response to evidence.\n\n\n\n\np. 5\n\n\nMoon Duchin offers a popular description of collaborations between metric geometers, legislators, and legal experts in a recent article in Scientific American.\n\n\n\n\np. 5\n\n\nHere is one amicus brief submitted by the Metric Geometry and Gerrymandering Group to the Supreme Court.\n\n\n\n\np. 6\n\n\nPierson, Corbett-Davies, and Goel (2018) offer additional work on large-scale statistical tests for bias.\n\n\n\n\np. 6\n\n\nGaribay (2015) discusses justice orientation as a promoter of student engagement.\n\n\n\n\np. 6\n\n\nFor further suggestions on critical conversations to support justice-oriented mathematics pedagogy, see N. N. Alexander, Teymuroglu, and Yerger (2021).\n\n\n\n\np. 6\n\n\nDisparity in funding of NIH proposals is studied by Taffe and Gilpin (2021).\n\n\n\n\np. 6\n\n\nFor further critical perspective on the role of justice and equity-oriented data science, see N. Alexander et al. (2022) and Castillo and Gillborn (2022). Eaton (2022) offers a detailed description of implementing justice orientation in machine learning pedagogy."
-  },
-  {
-    "objectID": "notes.html#section-4",
-    "href": "notes.html#section-4",
-    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
-    "section": "Section 4",
-    "text": "Section 4\n\n\n\n\np. 8\n\n\nThe preprint referred to by Andrés R. Vindas Meléndez is Buckmire et al. (2023).\n\n\n\n\np. 9\n\n\nAnother important limitation of the automated gender inference methods described in Heather Zinn Brooks’ vignette is the Euro- and US-centrism of most commercially available algorithms, including the ones we used. For a review of these biases and limitations, see Santamaría and Mihaljević (2018)."
-  },
-  {
-    "objectID": "notes.html#section-5",
-    "href": "notes.html#section-5",
-    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
-    "section": "Section 5",
-    "text": "Section 5\n\n\n\n\np. 10\n\n\nOther examples include a recent workshop on Mathematics and Racial Justice at the Mathematical Sciences Research Institute (MSRI), the upcoming workshop on Interdisciplinary and Critical Data Science Motivated by Social Justice at the Institute for Mathematical and Statistical Innovation, and the second part of the program on Data Science and Social Justice at the Institute for Computational and Experimental Research in Mathematics. We also note the long-standing annual Critical Inquiry in Mathematics Education conference at MSRI."
-  },
-  {
-    "objectID": "contributing.html",
-    "href": "contributing.html",
-    "title": "Contributing",
-    "section": "",
-    "text": "To contribute to this website, you may do one of two things:\n\nThe preferred method is to submit a pull request on GitHub:\n\nNavigate to the site’s GitHub repository.\nIdentify the page on which you would like to contribute. Common choices:\n\nResources\nAbout\nNotes\n\nEdit the content through the GitHub interface.\nSubmit a pull request with your changes when you are finished.\nWe will review and deploy your contribution when we can!\n\n(Advanced): you may fork the entire site and submit a pull request. This is the best approach if you have many changes.\nIf you are not able to submit a pull request on GitHub, you may email Phil Chodrow with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates."
-  },
-  {
-    "objectID": "team.html",
-    "href": "team.html",
-    "title": "Team",
-    "section": "",
-    "text": "We published this website to accompany our paper “Data Science and Social Justice in the Mathematics Community,” which is currently a preprint on arXiv. We are:\n\n\n\n\n\n\n\n\n\n\nQuindel Jones\n\n\nVirginia Commonwealth University\n\n\n\nmath modeling\n\n\ndynamical systems\n\n\nmathematical biology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndrés R. Vindas Meléndez\n\n\nUC Berkeley and Harvey Mudd\n\n\n\ncombinatorics\n\n\ndata science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAriana Mendible\n\n\nSeattle University\n\n\n\nmath modeling\n\n\ndata science\n\n\ncriminal justice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeather Zinn Brooks\n\n\nHarvey Mudd College\n\n\n\nmath modeling\n\n\ndynamical systems\n\n\nmathematical biology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManuchehr Aminian\n\n\nCalifornia State Polytechnic University, Pomona\n\n\n\nmath modeling\n\n\ndynamical systems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNathan Alexander\n\n\nMorehouse College\n\n\n\ndata science\n\n\ncritical perspectives\n\n\npedagogy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Carrie Diaz Eaton\n\n\nBates College\n\n\n\nmath modeling\n\n\ndata science\n\n\ncritical perspectives\n\n\npedagogy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phil Chodrow\n\n\nMiddlebury College\n\n\n\nnetwork science\n\n\ndata science\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "acknowledgements.html",
-    "href": "acknowledgements.html",
-    "title": "Gratitude",
-    "section": "",
-    "text": "This page is currently under construction.\n\nPeople\nOrganizations\nImage rights\nQuarto"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Data Science for Social Justice in the Mathematics Community",
-    "section": "",
-    "text": "This website contains resources related to the practice of data science for social justice (DS4SJ) in the mathematical community (broadly construed). It has both a narrow and a broad purpose.\nThe narrow purpose is to accompany the paper “Data Science for Social Justice in the Mathematics Community,” which is currently a preprint on the arXiv. We therefore supply supplementary notes on the paper\nThe broader purpose is to serve as a convenient launch point for those who wish to begin work in DS4SJ. To this end, we offer further resources for those who wish to learn more about the topic, including papers, organizations, and opportunities. We enthusiastically welcome contributions to the resource list.\nThis website is currently in draft form and many components are under construction."
-  },
-  {
-    "objectID": "resource-pages/people.html",
-    "href": "resource-pages/people.html",
-    "title": "People",
-    "section": "",
-    "text": "This page is under construction"
-  },
-  {
-    "objectID": "resource-pages/other-resources.html",
-    "href": "resource-pages/other-resources.html",
-    "title": "Other Resources",
-    "section": "",
-    "text": "The 2021 MSRI Workshop on Mathematics and Racial Justice collected a list of resources on mathematics and racial justice, including books, journal articles, organizations, and data sets. They also published a compendium of their work.\nAllison Miller (Swarthmore College) maintains an annotated list of resources on ethics in mathematics."
-  },
-  {
-    "objectID": "resource-pages/other-resources.html#resource-collections-and-bibliographies",
-    "href": "resource-pages/other-resources.html#resource-collections-and-bibliographies",
-    "title": "Other Resources",
-    "section": "",
-    "text": "The 2021 MSRI Workshop on Mathematics and Racial Justice collected a list of resources on mathematics and racial justice, including books, journal articles, organizations, and data sets. They also published a compendium of their work.\nAllison Miller (Swarthmore College) maintains an annotated list of resources on ethics in mathematics."
-  },
-  {
-    "objectID": "resource-pages/other-resources.html#books-and-articles",
-    "href": "resource-pages/other-resources.html#books-and-articles",
-    "title": "Other Resources",
-    "section": "Books and Articles",
-    "text": "Books and Articles\n\nWeapons of Math Destruction by Cathy O’Neil.\nAlgorithms of Oppression: How Search Engines Reinforce Racism by Safiya Umoja Noble.\nAutomating Inequality by Virginia Eubanks.\nInvisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez.\nA People’s Guide to Finding Algorithmic Bias by the Center for Critical Race and Digital Studies affiliated with NYU’s Institute of Human Development and Social Change."
-  },
-  {
-    "objectID": "resource-pages/other-resources.html#other-tools",
-    "href": "resource-pages/other-resources.html#other-tools",
-    "title": "Other Resources",
-    "section": "Other Tools",
-    "text": "Other Tools\n\nThe Academic Wheel of Privilege by Dr. Flavio Azevedo as described in this interview."
-  },
-  {
-    "objectID": "resource-pages/pedagogy.html",
-    "href": "resource-pages/pedagogy.html",
-    "title": "Pedagogy",
-    "section": "",
-    "text": "Hello and welcome to this Pedagogy page. The goal of this page is to create a resource for those of us in higher ed that would like to integrate work in Social Justice into our math, stats, and data science courses. We are indebted to and model this work after the K-12 educators (e.g. Bob Moses, Jonathan Osler). For K-12 resources, see for example the updated version of the venerable Radical Math website.\nYou’ll find here a google drive of open source resources curated by Kenan Ince for teaching Social Justice in mathematics. We’ll be trying to build on their work and making a more easy to use resource for educators. Teaching Postsecondary Mathematics for Social Justice resource folder. We recommend starting from here if you’re new to teaching social justice in your courses."
-  },
-  {
-    "objectID": "resource-pages/pedagogy.html#how-to-update-this-page",
-    "href": "resource-pages/pedagogy.html#how-to-update-this-page",
-    "title": "Pedagogy",
-    "section": "How to update this page",
-    "text": "How to update this page\nAn example for populating stuff! Add data in the file data/textbooks.yaml."
-  },
-  {
-    "objectID": "resource-pages/organizations.html",
-    "href": "resource-pages/organizations.html",
-    "title": "Organizations",
-    "section": "",
-    "text": "The Institute for the Quantitative Study of Inclusion, Diversity, and Equity (QSIDE)"
-  },
-  {
-    "objectID": "resource-pages/organizations.html#organizations-working-on-ds4sj",
-    "href": "resource-pages/organizations.html#organizations-working-on-ds4sj",
-    "title": "Organizations",
-    "section": "",
-    "text": "The Institute for the Quantitative Study of Inclusion, Diversity, and Equity (QSIDE)"
-  },
-  {
-    "objectID": "resource-pages/organizations.html#justice-equity-diversity-and-inclusion-in-the-broader-mathematics-community",
-    "href": "resource-pages/organizations.html#justice-equity-diversity-and-inclusion-in-the-broader-mathematics-community",
-    "title": "Organizations",
-    "section": "Justice, Equity, Diversity, and Inclusion in the Broader Mathematics Community",
-    "text": "Justice, Equity, Diversity, and Inclusion in the Broader Mathematics Community\n\nThe Society of Women in Network Science\nThe Just Mathematics Collective\nThe National Association of Mathematicians\nThe Association for Women in Mathematics"
-  },
-  {
-    "objectID": "resource-pages/organizations.html#recent-events",
-    "href": "resource-pages/organizations.html#recent-events",
-    "title": "Organizations",
-    "section": "Recent Events",
-    "text": "Recent Events\n\nData Science and Social Justice: Networks, Policy, and Education at the Institute for Computational and Experimental Research in Mathematics (2022-23)\nInterdisciplinary and Critical Data Science Motivated by Social Justice at the Institute for Mathematical and Statistical Innovation (2023)"
-  },
-  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Resources",
@@ -194,5 +47,159 @@
     "title": "Resources",
     "section": "Organizations",
     "text": "Organizations"
+  },
+  {
+    "objectID": "resource-pages/pedagogy.html",
+    "href": "resource-pages/pedagogy.html",
+    "title": "Pedagogy",
+    "section": "",
+    "text": "Hello and welcome to this Pedagogy page. The goal of this page is to create a resource for those of us in higher ed that would like to integrate work in Social Justice into our math, stats, and data science courses. We are indebted to and model this work after the K-12 educators (e.g. Bob Moses, Jonathan Osler). For K-12 resources, see for example the updated version of the venerable Radical Math website.\nYou’ll find here a google drive of open source resources curated by Kenan Ince for teaching Social Justice in mathematics. We’ll be trying to build on their work and making a more easy to use resource for educators. Teaching Postsecondary Mathematics for Social Justice resource folder. We recommend starting from here if you’re new to teaching social justice in your courses."
+  },
+  {
+    "objectID": "resource-pages/pedagogy.html#how-to-update-this-page",
+    "href": "resource-pages/pedagogy.html#how-to-update-this-page",
+    "title": "Pedagogy",
+    "section": "How to update this page",
+    "text": "How to update this page\nAn example for populating stuff! Add data in the file data/textbooks.yaml."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Data Science for Social Justice in the Mathematics Community",
+    "section": "",
+    "text": "This website contains resources related to the practice of data science for social justice (DS4SJ) in the mathematical community (broadly construed). It has both a narrow and a broad purpose.\nThe narrow purpose is to accompany the paper “Data Science for Social Justice in the Mathematics Community,” which is currently a preprint on the arXiv. We therefore supply supplementary notes on the paper\nThe broader purpose is to serve as a convenient launch point for those who wish to begin work in DS4SJ. To this end, we offer further resources for those who wish to learn more about the topic, including papers, organizations, and opportunities. We enthusiastically welcome contributions to the resource list.\nThis website is currently in draft form and many components are under construction."
+  },
+  {
+    "objectID": "team.html",
+    "href": "team.html",
+    "title": "Team",
+    "section": "",
+    "text": "We published this website to accompany our paper “Data Science and Social Justice in the Mathematics Community,” which is currently a preprint on arXiv. We are:\n\n\n\n\n\n\n\n\n\n\nQuindel Jones\n\n\nVirginia Commonwealth University\n\n\n\nmath modeling\n\n\ndynamical systems\n\n\nmathematical biology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAndrés R. Vindas Meléndez\n\n\nUC Berkeley and Harvey Mudd\n\n\n\ncombinatorics\n\n\ndata science\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAriana Mendible\n\n\nSeattle University\n\n\n\nmath modeling\n\n\ndata science\n\n\ncriminal justice\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHeather Zinn Brooks\n\n\nHarvey Mudd College\n\n\n\nmath modeling\n\n\ndynamical systems\n\n\nmathematical biology\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManuchehr Aminian\n\n\nCalifornia State Polytechnic University, Pomona\n\n\n\nmath modeling\n\n\ndynamical systems\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNathan Alexander\n\n\nMorehouse College\n\n\n\ndata science\n\n\ncritical perspectives\n\n\npedagogy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Carrie Diaz Eaton\n\n\nBates College\n\n\n\nmath modeling\n\n\ndata science\n\n\ncritical perspectives\n\n\npedagogy\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Phil Chodrow\n\n\nMiddlebury College\n\n\n\nnetwork science\n\n\ndata science\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "notes.html",
+    "href": "notes.html",
+    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
+    "section": "",
+    "text": "This page contains notes on the paper “Data Science and Social Justice in the Mathematics Community” (Jones et al. 2023). The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue."
+  },
+  {
+    "objectID": "notes.html#section-1",
+    "href": "notes.html#section-1",
+    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
+    "section": "Section 1",
+    "text": "Section 1\n\n\n\np. 1\n\n\nQSIDE’s website is https://qsideinstitute.org.\n\n\n\n\np. 1\n\n\nSee Flores González vs USA , 2022 for another legal brief by PRACDL supported by data analysis."
+  },
+  {
+    "objectID": "notes.html#section-2",
+    "href": "notes.html#section-2",
+    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
+    "section": "Section 2",
+    "text": "Section 2\n\n\n\np. 2\n\n\nData Science For Social Good’s website is https://www.datascienceforsocialgood.org/.\n\n\n\n\np. 3\n\n\nFollowing decision of the Associated Press, we capitalize “Black” and do not capitalize “white” when referring to racial identities.\n\n\n\n\np. 4\n\n\nFor more on the origins of the slogan “Nothing about us without us,” we refer the reader to Charlton (2000).\n\n\n\n\np. 4\n\n\nFor more on critical theory, especially in its connection to liberatory pedagogy, see Freire (1996).\n\n\n\n\np. 4\n\n\nThe disproportionate representation of white men in professional mathematics is highlighted in many places, for example this article.\n\n\n\n\np. 4\n\n\nHo (2011) considers epistemic humility in another relationship involving experts, the relationship between physicians and disabled patients. Epistmic humility is also related to cultural humility, a concept popularized by Tervalon and Murray-Garcia (1998).\n\n\n\n\np. 5\n\n\nN. N. Alexander, Teymuroglu, and Yerger (2021) offer further illustrations of interrogating privilege in practice."
+  },
+  {
+    "objectID": "notes.html#section-3",
+    "href": "notes.html#section-3",
+    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
+    "section": "Section 3",
+    "text": "Section 3\n\n\n\np. 5\n\n\nFor more on Ida B. Wells, we refer the reader to her story in her own words (Wells 2020).\n\n\n\n\np. 5\n\n\nOne online database of police violence is the Mapping Police Violence project led by Samuel Sinyangwe.\n\n\n\n\np. 5\n\n\nCiocanel et al. (2020) obtain a large data set of federal criminal sentencing records, recorded on QSIDE’s webpage. This data was further analyzed by Smith et al. (2021).\n\n\n\n\np. 5\n\n\nOne data set on cultural representation of artists in major US museums was compiled and released by QSIDE.\n\n\n\n\np. 5\n\n\nMercier and Sperber (2011) offer a theory of reasoning as primarily rhetorical rather than deductive, and includes a survey of work studying confirmation bias and other mechanisms that hinder our ability to change our minds in response to evidence.\n\n\n\n\np. 5\n\n\nMoon Duchin offers a popular description of collaborations between metric geometers, legislators, and legal experts in a recent article in Scientific American.\n\n\n\n\np. 5\n\n\nHere is one amicus brief submitted by the Metric Geometry and Gerrymandering Group to the Supreme Court.\n\n\n\n\np. 6\n\n\nPierson, Corbett-Davies, and Goel (2018) offer additional work on large-scale statistical tests for bias.\n\n\n\n\np. 6\n\n\nGaribay (2015) discusses justice orientation as a promoter of student engagement.\n\n\n\n\np. 6\n\n\nFor further suggestions on critical conversations to support justice-oriented mathematics pedagogy, see N. N. Alexander, Teymuroglu, and Yerger (2021).\n\n\n\n\np. 6\n\n\nDisparity in funding of NIH proposals is studied by Taffe and Gilpin (2021).\n\n\n\n\np. 6\n\n\nFor further critical perspective on the role of justice and equity-oriented data science, see N. Alexander et al. (2022) and Castillo and Gillborn (2022). Eaton (2022) offers a detailed description of implementing justice orientation in machine learning pedagogy."
+  },
+  {
+    "objectID": "notes.html#section-4",
+    "href": "notes.html#section-4",
+    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
+    "section": "Section 4",
+    "text": "Section 4\n\n\n\np. 8\n\n\nThe preprint referred to by Andrés R. Vindas Meléndez is Buckmire et al. (2023).\n\n\n\n\np. 9\n\n\nAnother important limitation of the automated gender inference methods described in Heather Zinn Brooks’ vignette is the Euro- and US-centrism of most commercially available algorithms, including the ones we used. For a review of these biases and limitations, see Santamaría and Mihaljević (2018)."
+  },
+  {
+    "objectID": "notes.html#section-5",
+    "href": "notes.html#section-5",
+    "title": "Notes on “Data Science for Social Justice in the Mathematics Community”",
+    "section": "Section 5",
+    "text": "Section 5\n\n\n\np. 10\n\n\nOther examples include a recent workshop on Mathematics and Racial Justice at the Mathematical Sciences Research Institute (MSRI), the upcoming workshop on Interdisciplinary and Critical Data Science Motivated by Social Justice at the Institute for Mathematical and Statistical Innovation, and the second part of the program on Data Science and Social Justice at the Institute for Computational and Experimental Research in Mathematics. We also note the long-standing annual Critical Inquiry in Mathematics Education conference at MSRI."
+  },
+  {
+    "objectID": "contributing.html",
+    "href": "contributing.html",
+    "title": "Contributing",
+    "section": "",
+    "text": "To contribute to this website, you may do one of two things:\n\nThe preferred method is to submit a pull request on GitHub:\n\nNavigate to the site’s GitHub repository.\nIdentify the page on which you would like to contribute. Common choices:\n\nResources\nAbout\nNotes\n\nEdit the content through the GitHub interface.\nSubmit a pull request with your changes when you are finished.\nWe will review and deploy your contribution when we can!\n\n(Advanced): you may fork the entire site and submit a pull request. This is the best approach if you have many changes.\nIf you are not able to submit a pull request on GitHub, you may email Phil Chodrow with the text of your contribution and clear instructions about where modification should be pleased. Please note that this method may result in significantly slower updates."
+  },
+  {
+    "objectID": "acknowledgements.html",
+    "href": "acknowledgements.html",
+    "title": "Gratitude",
+    "section": "",
+    "text": "This page is currently under construction.\n\nPeople\nOrganizations\nImage rights\nQuarto"
+  },
+  {
+    "objectID": "resource-pages/people.html",
+    "href": "resource-pages/people.html",
+    "title": "People",
+    "section": "",
+    "text": "This page is under construction"
+  },
+  {
+    "objectID": "resource-pages/other-resources.html",
+    "href": "resource-pages/other-resources.html",
+    "title": "Other Resources",
+    "section": "",
+    "text": "The 2021 MSRI Workshop on Mathematics and Racial Justice collected a list of resources on mathematics and racial justice, including books, journal articles, organizations, and data sets. They also published a compendium of their work.\nAllison Miller (Swarthmore College) maintains an annotated list of resources on ethics in mathematics."
+  },
+  {
+    "objectID": "resource-pages/other-resources.html#resource-collections-and-bibliographies",
+    "href": "resource-pages/other-resources.html#resource-collections-and-bibliographies",
+    "title": "Other Resources",
+    "section": "",
+    "text": "The 2021 MSRI Workshop on Mathematics and Racial Justice collected a list of resources on mathematics and racial justice, including books, journal articles, organizations, and data sets. They also published a compendium of their work.\nAllison Miller (Swarthmore College) maintains an annotated list of resources on ethics in mathematics."
+  },
+  {
+    "objectID": "resource-pages/other-resources.html#courses",
+    "href": "resource-pages/other-resources.html#courses",
+    "title": "Other Resources",
+    "section": "Courses",
+    "text": "Courses\n\nCalling Bullshit, a course by Carl Bergstrom and Jevin West at the University of Washington."
+  },
+  {
+    "objectID": "resource-pages/other-resources.html#books-and-articles",
+    "href": "resource-pages/other-resources.html#books-and-articles",
+    "title": "Other Resources",
+    "section": "Books and Articles",
+    "text": "Books and Articles\n\nWeapons of Math Destruction by Cathy O’Neil.\nAlgorithms of Oppression: How Search Engines Reinforce Racism by Safiya Umoja Noble.\nAutomating Inequality by Virginia Eubanks.\nInvisible Women: Data Bias in a World Designed for Men by Caroline Criado Perez.\nA People’s Guide to Finding Algorithmic Bias by the Center for Critical Race and Digital Studies affiliated with NYU’s Institute of Human Development and Social Change."
+  },
+  {
+    "objectID": "resource-pages/other-resources.html#other-tools",
+    "href": "resource-pages/other-resources.html#other-tools",
+    "title": "Other Resources",
+    "section": "Other Tools",
+    "text": "Other Tools\n\nThe Academic Wheel of Privilege by Dr. Flavio Azevedo as described in this interview."
+  },
+  {
+    "objectID": "resource-pages/organizations.html",
+    "href": "resource-pages/organizations.html",
+    "title": "Organizations",
+    "section": "",
+    "text": "The Institute for the Quantitative Study of Inclusion, Diversity, and Equity (QSIDE)"
+  },
+  {
+    "objectID": "resource-pages/organizations.html#organizations-working-on-ds4sj",
+    "href": "resource-pages/organizations.html#organizations-working-on-ds4sj",
+    "title": "Organizations",
+    "section": "",
+    "text": "The Institute for the Quantitative Study of Inclusion, Diversity, and Equity (QSIDE)"
+  },
+  {
+    "objectID": "resource-pages/organizations.html#justice-equity-diversity-and-inclusion-in-the-broader-mathematics-community",
+    "href": "resource-pages/organizations.html#justice-equity-diversity-and-inclusion-in-the-broader-mathematics-community",
+    "title": "Organizations",
+    "section": "Justice, Equity, Diversity, and Inclusion in the Broader Mathematics Community",
+    "text": "Justice, Equity, Diversity, and Inclusion in the Broader Mathematics Community\n\nThe Society of Women in Network Science\nThe Just Mathematics Collective\nThe National Association of Mathematicians\nThe Association for Women in Mathematics"
+  },
+  {
+    "objectID": "resource-pages/organizations.html#recent-events",
+    "href": "resource-pages/organizations.html#recent-events",
+    "title": "Organizations",
+    "section": "Recent Events",
+    "text": "Recent Events\n\nData Science and Social Justice: Networks, Policy, and Education at the Institute for Computational and Experimental Research in Mathematics (2022-23)\nInterdisciplinary and Critical Data Science Motivated by Social Justice at the Institute for Mathematical and Statistical Innovation (2023)"
   }
 ]
