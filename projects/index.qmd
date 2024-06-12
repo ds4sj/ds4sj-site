@@ -1,0 +1,3 @@
+This page is a nonexhaustive, collectively-curated collection of projects and initiatives that fall under the broad heading of data science and social justice. The views expressed in these projects are those of their authors; no attempt is made to speak for the entire community of scholars in this area. 
+
+- [MetaMath](metamath/index.qmd) 

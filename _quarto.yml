@@ -23,6 +23,8 @@ website:
           - resource-pages/organizations.qmd
           - resource-pages/theory.qmd
           - resource-pages/other-resources.qmd
+      - text: Other Projects
+        href: projects
 
 format:
   html:
