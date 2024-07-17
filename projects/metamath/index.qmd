@@ -1,7 +1,7 @@
 # Welcome to MetaMath! 
 
 
-We're excited to have you join us!\
+We're excited to have you join us!
 
 To learn more about what we're doing, check out our [Meta Metmath page](meta-metamath.qmd) to see how we define ourselves, our core beliefs, and our goals.
 
@@ -20,9 +20,9 @@ We are also beginning to curate a [list of data sources](data-sources.qmd) that 
 - Jakini Kauba, Clemson University
 - [Drew Lewis](https://drew-lewis.com), Independent Consultant
 - Omayra Ortega, Sonoma State University
-- Jose Pabon, New Jersey Institute of Technology
+- José Pabón, New Jersey Institute of Technology
 - Rachel Roca, Michigan State University
-- Andres Vindas-Melendez, Harvey Mudd College
+- Andrés Vindas Meléndez, Harvey Mudd College
 
 
 ## Upcoming Projects
