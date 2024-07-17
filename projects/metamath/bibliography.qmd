@@ -1,0 +1,29 @@
+---
+title: Bibliography
+---
+
+## Presentations
+
+## Publications
+<!-- We should decide on a citation style --> 
+1. Ron Buckmire, Carrie Diaz Eaton, Joseph E. Hibdon, Jr., Jakini Kauba, Drew Lewis, Omayra Ortega, José L. Pabón, Rachel Roca, and Andrés R. Vindas-Meléndez. (2024). [Quantifying and Documenting Inequity in PhD-granting Mathematical Sciences Departments in the United States](https://arxiv.org/abs/2308.13750). arXiv preprint arXiv:2308.13750.
+
+1. Ron Buckmire, Joseph E. Hibdon, Jr., Drew Lewis, Omayra Ortega, José L. Pabón, Rachel Roca, Andrés R. Vindas-Meléndez. (2023). [The Mathematics of Mathematics: Using Mathematics and Data Science to Analyze the Mathematical Sciences Community and Enhance Social Justice](https://arxiv.org/abs/2307.03241). arXiv preprint arXiv:2307.0324.
+
+1. Ron Buckmire , Carrie Diaz Eaton, Joseph E. Hibdon Jr., Katherine M. Kinnaird, Drew Lewis, Jessica Libertini, Omayra Ortega, Rachel Roca, and Andres R. Vindas Meléndez. (2023). [“On definitions of ‘mathematician.’”](https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=2071&context=jhm) _Journal of Humanistic Mathematics_, 13(2),8--38.
+
+
+
+## Related Work
+These are some papers on topics related to our work but are not products of this working group.
+
+1.  Cody FitzGerald, Yitong Huang, Katelyn Plaisier Leisman & Chad M. Topaz. (2023).
+[Temporal dynamics of faculty hiring in mathematics](https://doi.org/10.1057/s41599-023-01708-9).
+_Humanities and Social Sciences Communications_ 10,247.
+
+1.  Mari Kawakatsu, Philip S. Chodrow, Nicole Eikmeier, and Daniel B. Larremore. (2021). [Emergence of hierarchy in networked endorsement dynamics](https://www.pnas.org/doi/full/10.1073/pnas.2015188118). _PNAS_ 118(16):e2015188118.
+
+1.  Chad M. Topaz, James Cart, Carrie Diaz Eaton, Anelise Hanson Shrout, Jude A. Higdon, Kenan İnce, Brian Katz,Drew Lewis, Jessica Libertini, Christian Michael Smith. (2020).  [Comparing demographics of signatories to public letters on diversity in the mathematical sciences](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0232075). _PLoS ONE_ 15(4):e0232075.
+
+1. K. Hunter Wapman, Sam Zhang, Aaron Clauset, and Daniel B. Larremore. (2022).  [Quantifying hierarchy and dynamics in US faculty hiring and retention](). 
+_Nature_  610, 120-–127.

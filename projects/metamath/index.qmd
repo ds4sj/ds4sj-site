@@ -7,13 +7,4 @@ To learn more about what we're doing, check out our [Meta Metmath page](meta-met
 
 Our communication happens primarily through Slack. To join in the conversation, use this [link](http://mcasj.slack.com) to be added to the *Mathematical and Computational Approaches to Social Justice* workspace. We use the channel #metamath2.
 
-## Bibliography
-
-The group's work can be seen below:
-
-* Ron Buckmire, Carrie Diaz Eaton, Joseph E. Hibdon, Jr., Jakini Kauba, Drew Lewis, Omayra Ortega, José L. Pabón, Rachel Roca, Andrés R. Vindas-Meléndez, and Sam Zhang. Quantifying and Documenting Inequity in PhD-granting Mathematical Sciences Departments in the United States. arXiv preprint arXiv:2308.13750, 2024.
-
-* Ron Buckmire, Joseph E. Hibdon, Jr., Drew Lewis, Omayra Ortega, José L. Pabón, Rachel Roca, Andrés R. Vindas-Meléndez. The Mathematics of Mathematics: Using Mathematics and Data Science to Analyze the Mathematical Sciences Community and Enhance Social Justice. arXiv preprint arXiv:2307.0324, 2023.
-
-* Ron Buckmire , Carrie Diaz Eaton, Joseph E. Hibdon Jr., Katherine M. Kinnaird, Drew Lewis, Jessica Libertini, Omayra Ortega, Rachel Roca, and Andres R. Vindas Meléndez. "On definitions of 'mathematician.'" Journal of Humanistic Mathematics, Volume 13 Issue 2, pages 8-38, (July 2023).
-
+See our [bibliography page](bibliography.qmd) for a list of presentations and publications by our working group, as well as a list of related work.
