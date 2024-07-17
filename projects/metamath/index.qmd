@@ -10,3 +10,20 @@ Our communication happens primarily through Slack. To join in the conversation, 
 See our [bibliography page](bibliography.qmd) for a list of presentations and publications by our working group, as well as a list of related work.
 
 We are also beginning to curate a [list of data sources](data-sources.qmd) that have been or may be useful in conducting this kind of work.
+
+
+## People
+
+- Ron Buckmire, Maris College
+- Carrie Diaz Eaton, Bates College & RIOS Institute
+- Joe Hibdon, Northeastern Illinois State University
+- Jakini Kauba, Clemson University
+- [Drew Lewis](https://drew-lewis.com), Independent Consultant
+- Omayra Ortega, Sonoma State University
+- Jose Pabon, New Jersey Institute of Technology
+- Rachel Roca, Michigan State University
+- Andres Vindas-Melendez, Harvey Mudd College
+
+
+## Upcoming Projects
+In December 2025, there will be a workshop __Applications of Data Science & Mathematical Modeling to the Mathematical Sciences Community__ at the American Institute of Mathematics in Pasadena, CA.
