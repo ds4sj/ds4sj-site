@@ -1,4 +1,6 @@
-# Meta MetaMath
+---
+title: Meta Metamath
+---
 
 ## Nomenclature
 MetaMath is a community of practice consisting of mathematicians (broadly construed) interested in promoting social justice in the mathematical sciences community, broadly defined, through the production of knowledge and insight gained through quantitative and qualitative analysis of data about the mathematical sciences community.
