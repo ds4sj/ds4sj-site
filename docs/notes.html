@@ -2,12 +2,12 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.5.47">
+<meta name="generator" content="quarto-1.2.313">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Notes on “Data Science for Social Justice in the Mathematics Community” – DS4SJ</title>
+<title>DS4SJ - Notes on “Data Science for Social Justice in the Mathematics Community”</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -17,16 +17,14 @@ div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
 ul.task-list li input[type="checkbox"] {
   width: 0.8em;
-  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
-/* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
-  margin-bottom: 0em;
 }
-.hanging-indent div.csl-entry {
+.hanging div.csl-entry {
   margin-left:2em;
   text-indent:-2em;
 }
@@ -40,7 +38,8 @@ div.csl-right-inline {
 }
 div.csl-indent {
   margin-left: 2em;
-}</style>
+}
+</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -65,13 +64,7 @@ div.csl-indent {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 50,
-  "keyboard-shortcut": [
-    "f",
-    "/",
-    "s"
-  ],
-  "show-item-context": false,
+  "limit": 20,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -80,10 +73,8 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
-    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit",
-    "search-label": "Search"
+    "search-submit-button-title": "Submit"
   }
 }</script>
 
@@ -95,25 +86,24 @@ div.csl-indent {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
+      <div class="navbar-brand-container">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">DS4SJ</span>
     </a>
   </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html">
+ <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">About</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
@@ -132,11 +122,11 @@ div.csl-indent {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link active" href="./notes.html" aria-current="page"> 
-<span class="menu-text">Notes</span></a>
+    <a class="nav-link active" href="./notes.html" aria-current="page">
+ <span class="menu-text">Notes</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Resources</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-resources">    
@@ -167,13 +157,12 @@ div.csl-indent {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./projects"> 
-<span class="menu-text">Other Projects</span></a>
+    <a class="nav-link" href="./projects">
+ <span class="menu-text">Other Projects</span></a>
   </li>  
 </ul>
+              <div id="quarto-search" class="" title="Search"></div>
           </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
-</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -212,13 +201,12 @@ div.csl-indent {
   </div>
   
 
-
 </header>
-
 
 <p>This page contains notes on the paper “Data Science and Social Justice in the Mathematics Community” <span class="citation" data-cites="jones2023data">(<a href="#ref-jones2023data" role="doc-biblioref">Jones et al. 2023</a>)</span>. The purpose of these notes is to fill in additional discussion and references not permitted by the constraints of our prospective publication venue.</p>
 <section id="section-1" class="level2">
 <h2 class="anchored" data-anchor-id="section-1">Section 1</h2>
+
 <table>
 <tbody><tr>
 <td class="page-number">
@@ -236,10 +224,12 @@ QSIDE’s website is <a href="https://qsideinstitute.org">https://qsideinstitute
 See <em>Flores González vs USA , 2022</em> for another legal brief by PRACDL supported by data analysis.
 </td>
 </tr>
+
 </tbody></table>
 </section>
 <section id="section-2" class="level2">
 <h2 class="anchored" data-anchor-id="section-2">Section 2</h2>
+
 <table>
 <tbody><tr>
 <td class="page-number">
@@ -297,10 +287,12 @@ The disproportionate representation of white men in professional mathematics is 
 <span class="citation" data-cites="alexander2021critical">N. N. Alexander, Teymuroglu, and Yerger (<a href="#ref-alexander2021critical" role="doc-biblioref">2021</a>)</span> offer further illustrations of interrogating privilege in practice.
 </td>
 </tr>
+
 </tbody></table>
 </section>
 <section id="section-3" class="level2">
 <h2 class="anchored" data-anchor-id="section-3">Section 3</h2>
+
 <table>
 <tbody><tr>
 <td class="page-number">
@@ -398,10 +390,12 @@ Disparity in funding of NIH proposals is studied by <span class="citation" data-
 For further critical perspective on the role of justice and equity-oriented data science, see <span class="citation" data-cites="alexander2022beyond">N. Alexander et al. (<a href="#ref-alexander2022beyond" role="doc-biblioref">2022</a>)</span> and <span class="citation" data-cites="castillo2022">Castillo and Gillborn (<a href="#ref-castillo2022" role="doc-biblioref">2022</a>)</span>. <span class="citation" data-cites="eaton2022teaching">Eaton (<a href="#ref-eaton2022teaching" role="doc-biblioref">2022</a>)</span> offers a detailed description of implementing justice orientation in machine learning pedagogy.
 </td>
 </tr>
+
 </tbody></table>
 </section>
 <section id="section-4" class="level2">
 <h2 class="anchored" data-anchor-id="section-4">Section 4</h2>
+
 <table>
 <tbody><tr>
 <td class="page-number">
@@ -419,10 +413,12 @@ The preprint referred to by Andrés R. Vindas Meléndez is <span class="citation
 Another important limitation of the automated gender inference methods described in Heather Zinn Brooks’ vignette is the Euro- and US-centrism of most commercially available algorithms, including the ones we used. For a review of these biases and limitations, see <span class="citation" data-cites="santamaria2018comparison">Santamaría and Mihaljević (<a href="#ref-santamaria2018comparison" role="doc-biblioref">2018</a>)</span>.
 </td>
 </tr>
+
 </tbody></table>
 </section>
 <section id="section-5" class="level2">
 <h2 class="anchored" data-anchor-id="section-5">Section 5</h2>
+
 <table>
 <tbody><tr>
 <td class="page-number">
@@ -432,65 +428,66 @@ Another important limitation of the automated gender inference methods described
 Other examples include a recent workshop on Mathematics and Racial Justice at the Mathematical Sciences Research Institute (MSRI), the upcoming workshop on Interdisciplinary and Critical Data Science Motivated by Social Justice at the Institute for Mathematical and Statistical Innovation, and the second part of the program on Data Science and Social Justice at the Institute for Computational and Experimental Research in Mathematics. We also note the long-standing annual Critical Inquiry in Mathematics Education conference at MSRI.
 </td>
 </tr>
+
 </tbody></table>
 
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" role="list">
-<div id="ref-alexander2021critical" class="csl-entry" role="listitem">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-alexander2021critical" class="csl-entry" role="doc-biblioentry">
 Alexander, Nathan N, Zeynep Teymuroglu, and Carl R Yerger. 2021. <span>“Critical Conversations on Social Justice in Undergraduate Mathematics.”</span> In <em>Mathematics for Social Justice</em>, 190–212. Routledge.
 </div>
-<div id="ref-alexander2022beyond" class="csl-entry" role="listitem">
+<div id="ref-alexander2022beyond" class="csl-entry" role="doc-biblioentry">
 Alexander, Nathan, Carrie Diaz Eaton, Anelise H Shrout, Belin Tsinnajinnie, and Krystal Tsosie. 2022. <span>“Beyond Ethics: Considerations for Centering Equity-Minded Data Science.”</span> <em>Journal of Humanistic Mathematics</em> 12 (2): 254–300.
 </div>
-<div id="ref-defs" class="csl-entry" role="listitem">
+<div id="ref-defs" class="csl-entry" role="doc-biblioentry">
 Buckmire, Ron, Carrie Diaz Eaton, Jr. Joseph E. Hibdon, Katherine M. Kinnaird, Drew Lewis, Jessica Libertini, Omayra Ortega, Rachel Roca, and Andrés R. Vindas-Meléndez. 2023. <span>“On Definitions of “Mathematician".”</span>
 </div>
-<div id="ref-castillo2022" class="csl-entry" role="listitem">
+<div id="ref-castillo2022" class="csl-entry" role="doc-biblioentry">
 Castillo, W, and D Gillborn. 2022. <span>“How to <span>‘QuantCrit:’</span> Practices and Questions for Education Data Researchers and Users.”</span> <em>EdWorkingPaper</em>. Retrieved from Annenberg Institute at Brown University: <a href="https://doi.org/10.26300/v5kh-dd65" class="uri">https://doi.org/10.26300/v5kh-dd65</a>.
 </div>
-<div id="ref-charlton2000nothing" class="csl-entry" role="listitem">
+<div id="ref-charlton2000nothing" class="csl-entry" role="doc-biblioentry">
 Charlton, James I. 2000. <em>Nothing about Us Without Us: Disability Oppression and Empowerment</em>. University of California Press.
 </div>
-<div id="ref-ciocanel2020justfair" class="csl-entry" role="listitem">
+<div id="ref-ciocanel2020justfair" class="csl-entry" role="doc-biblioentry">
 Ciocanel, Maria-Veronica, Chad M Topaz, Rebecca Santorella, Shilad Sen, Christian Michael Smith, and Adam Hufstetler. 2020. <span>“<span>JUSTFAIR</span>: Judicial System Transparency Through Federal Archive Inferred Records.”</span> <em>Plos One</em> 15 (10): e0241381.
 </div>
-<div id="ref-eaton2022teaching" class="csl-entry" role="listitem">
+<div id="ref-eaton2022teaching" class="csl-entry" role="doc-biblioentry">
 Eaton, Carrie Diaz. 2022. <span>“Teaching Machine Learning in the Context of Critical Quantitative Information Literacy.”</span> In <em>Proceedings of the Second Teaching Machine Learning and Artificial Intelligence Workshop</em>, 51–56. PMLR.
 </div>
-<div id="ref-freire1996pedagogy" class="csl-entry" role="listitem">
+<div id="ref-freire1996pedagogy" class="csl-entry" role="doc-biblioentry">
 Freire, Paulo. 1996. <span>“Pedagogy of the Oppressed (Revised).”</span> <em>New York: Continuum</em> 356: 357–58.
 </div>
-<div id="ref-garibay2015stem" class="csl-entry" role="listitem">
+<div id="ref-garibay2015stem" class="csl-entry" role="doc-biblioentry">
 Garibay, Juan C. 2015. <span>“<span>STEM</span> Students’ Social Agency and Views on Working for Social Change: Are <span>STEM</span> Disciplines Developing Socially and Civically Responsible Students?”</span> <em>Journal of Research in Science Teaching</em> 52 (5): 610–32.
 </div>
-<div id="ref-ho2011trusting" class="csl-entry" role="listitem">
+<div id="ref-ho2011trusting" class="csl-entry" role="doc-biblioentry">
 Ho, Anita. 2011. <span>“Trusting Experts and Epistemic Humility in Disability.”</span> <em>IJFAB: International Journal of Feminist Approaches to Bioethics</em> 4 (2): 102–23.
 </div>
-<div id="ref-jones2023data" class="csl-entry" role="listitem">
+<div id="ref-jones2023data" class="csl-entry" role="doc-biblioentry">
 Jones, Quindel, Andrés R Vindas Meléndez, Ariana Mendible, Manuchehr Aminian, Heather Z Brooks, Nathan Alexander, Carrie Diaz Eaton, and Philip Chodrow. 2023. <span>“Data Science and Social Justice in the Mathematics Community.”</span> <em>arXiv Preprint arXiv:2303.09282</em>.
 </div>
-<div id="ref-mercier2011humans" class="csl-entry" role="listitem">
+<div id="ref-mercier2011humans" class="csl-entry" role="doc-biblioentry">
 Mercier, Hugo, and Dan Sperber. 2011. <span>“Why Do Humans Reason? Arguments for an Argumentative Theory.”</span> <em>Behavioral and Brain Sciences</em> 34 (2): 57–74.
 </div>
-<div id="ref-pierson2018fast" class="csl-entry" role="listitem">
+<div id="ref-pierson2018fast" class="csl-entry" role="doc-biblioentry">
 Pierson, Emma, Sam Corbett-Davies, and Sharad Goel. 2018. <span>“Fast Threshold Tests for Detecting Discrimination.”</span> In <em>International Conference on Artificial Intelligence and Statistics</em>, 96–105. PMLR.
 </div>
-<div id="ref-santamaria2018comparison" class="csl-entry" role="listitem">
+<div id="ref-santamaria2018comparison" class="csl-entry" role="doc-biblioentry">
 Santamaría, Lucía, and Helena Mihaljević. 2018. <span>“Comparison and Benchmark of Name-to-Gender Inference Services.”</span> <em>PeerJ Computer Science</em> 4: e156.
 </div>
-<div id="ref-smith2021racial" class="csl-entry" role="listitem">
+<div id="ref-smith2021racial" class="csl-entry" role="doc-biblioentry">
 Smith, Christian M, Nicholas Goldrosen, Maria-Veronica Ciocanel, Rebecca Santorella, Chad M Topaz, and Shilad Sen. 2021. <span>“Racial Disparities in Criminal Sentencing Vary Considerably Across Federal Judges.”</span> <em>SocArXiv (July 2021)</em>.
 </div>
-<div id="ref-taffe2021equity" class="csl-entry" role="listitem">
+<div id="ref-taffe2021equity" class="csl-entry" role="doc-biblioentry">
 Taffe, Michael A, and Nicholas W Gilpin. 2021. <span>“Equity, Diversity and Inclusion: Racial Inequity in Grant Funding from the <span class="nocase">US National Institutes of Health</span>.”</span> <em>Elife</em> 10: e65697.
 </div>
-<div id="ref-tervalon1998cultural" class="csl-entry" role="listitem">
+<div id="ref-tervalon1998cultural" class="csl-entry" role="doc-biblioentry">
 Tervalon, Melanie, and Jann Murray-Garcia. 1998. <span>“Cultural Humility Versus Cultural Competence: A Critical Distinction in Defining Physician Training Outcomes in Multicultural Education.”</span> <em>Journal of Health Care for the Poor and Underserved</em> 9 (2): 117–25.
 </div>
-<div id="ref-wells2020crusade" class="csl-entry" role="listitem">
+<div id="ref-wells2020crusade" class="csl-entry" role="doc-biblioentry">
 Wells, Ida B. 2020. <em>Crusade for Justice: The Autobiography of Ida b. Wells</em>. University of Chicago Press.
 </div>
 </div></section></div></main> <!-- /main -->
@@ -521,15 +518,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     icon: icon
   };
   anchorJS.add('.anchored');
-  const isCodeAnnotation = (el) => {
-    for (const clz of el.classList) {
-      if (clz.startsWith('code-annotation-')) {                     
-        return true;
-      }
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
     }
-    return false;
-  }
-  const onCopySuccess = function(e) {
+  });
+  clipboard.on('success', function(e) {
     // button target
     const button = e.trigger;
     // don't keep focus
@@ -561,50 +555,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }, 1000);
     // clear code selection
     e.clearSelection();
-  }
-  const getTextToCopy = function(trigger) {
-      const codeEl = trigger.previousElementSibling.cloneNode(true);
-      for (const childEl of codeEl.children) {
-        if (isCodeAnnotation(childEl)) {
-          childEl.remove();
-        }
-      }
-      return codeEl.innerText;
-  }
-  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
-    text: getTextToCopy
   });
-  clipboard.on('success', onCopySuccess);
-  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
-    // For code content inside modals, clipBoardJS needs to be initialized with a container option
-    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
-    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
-      text: getTextToCopy,
-      container: window.document.getElementById('quarto-embedded-source-code-modal')
-    });
-    clipboardModal.on('success', onCopySuccess);
-  }
-    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-    var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
-    var isInternal = (href) => {
-        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
-    }
-    // Inspect non-navigation links and adorn them if external
- 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
-    for (var i=0; i<links.length; i++) {
-      const link = links[i];
-      if (!isInternal(link.href)) {
-        // undo the damage that might have been done by quarto-nav.js in the case of
-        // links that we want to consider external
-        if (link.dataset.originalHref !== undefined) {
-          link.href = link.dataset.originalHref;
-        }
-      }
-    }
-  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+  function tippyHover(el, contentFn) {
     const config = {
       allowHTML: true,
+      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -614,17 +569,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start',
+      placement: 'bottom-start'
     };
-    if (contentFn) {
-      config.content = contentFn;
-    }
-    if (onTriggerFn) {
-      config.onTrigger = onTriggerFn;
-    }
-    if (onUntriggerFn) {
-      config.onUntrigger = onUntriggerFn;
-    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -636,245 +582,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      if (note) {
-        return note.innerHTML;
-      } else {
-        return "";
-      }
+      return note.innerHTML;
     });
   }
-  const xrefs = window.document.querySelectorAll('a.quarto-xref');
-  const processXRef = (id, note) => {
-    // Strip column container classes
-    const stripColumnClz = (el) => {
-      el.classList.remove("page-full", "page-columns");
-      if (el.children) {
-        for (const child of el.children) {
-          stripColumnClz(child);
-        }
-      }
-    }
-    stripColumnClz(note)
-    if (id === null || id.startsWith('sec-')) {
-      // Special case sections, only their first couple elements
-      const container = document.createElement("div");
-      if (note.children && note.children.length > 2) {
-        container.appendChild(note.children[0].cloneNode(true));
-        for (let i = 1; i < note.children.length; i++) {
-          const child = note.children[i];
-          if (child.tagName === "P" && child.innerText === "") {
-            continue;
-          } else {
-            container.appendChild(child.cloneNode(true));
-            break;
-          }
-        }
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(container);
-        }
-        return container.innerHTML
-      } else {
-        if (window.Quarto?.typesetMath) {
-          window.Quarto.typesetMath(note);
-        }
-        return note.innerHTML;
-      }
-    } else {
-      // Remove any anchor links if they are present
-      const anchorLink = note.querySelector('a.anchorjs-link');
-      if (anchorLink) {
-        anchorLink.remove();
-      }
-      if (window.Quarto?.typesetMath) {
-        window.Quarto.typesetMath(note);
-      }
-      // TODO in 1.5, we should make sure this works without a callout special case
-      if (note.classList.contains("callout")) {
-        return note.outerHTML;
-      } else {
-        return note.innerHTML;
-      }
-    }
-  }
-  for (var i=0; i<xrefs.length; i++) {
-    const xref = xrefs[i];
-    tippyHover(xref, undefined, function(instance) {
-      instance.disable();
-      let url = xref.getAttribute('href');
-      let hash = undefined; 
-      if (url.startsWith('#')) {
-        hash = url;
-      } else {
-        try { hash = new URL(url).hash; } catch {}
-      }
-      if (hash) {
-        const id = hash.replace(/^#\/?/, "");
-        const note = window.document.getElementById(id);
-        if (note !== null) {
-          try {
-            const html = processXRef(id, note.cloneNode(true));
-            instance.setContent(html);
-          } finally {
-            instance.enable();
-            instance.show();
-          }
-        } else {
-          // See if we can fetch this
-          fetch(url.split('#')[0])
-          .then(res => res.text())
-          .then(html => {
-            const parser = new DOMParser();
-            const htmlDoc = parser.parseFromString(html, "text/html");
-            const note = htmlDoc.getElementById(id);
-            if (note !== null) {
-              const html = processXRef(id, note);
-              instance.setContent(html);
-            } 
-          }).finally(() => {
-            instance.enable();
-            instance.show();
-          });
-        }
-      } else {
-        // See if we can fetch a full url (with no hash to target)
-        // This is a special case and we should probably do some content thinning / targeting
-        fetch(url)
-        .then(res => res.text())
-        .then(html => {
-          const parser = new DOMParser();
-          const htmlDoc = parser.parseFromString(html, "text/html");
-          const note = htmlDoc.querySelector('main.content');
-          if (note !== null) {
-            // This should only happen for chapter cross references
-            // (since there is no id in the URL)
-            // remove the first header
-            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
-              note.children[0].remove();
-            }
-            const html = processXRef(null, note);
-            instance.setContent(html);
-          } 
-        }).finally(() => {
-          instance.enable();
-          instance.show();
-        });
-      }
-    }, function(instance) {
-    });
-  }
-      let selectedAnnoteEl;
-      const selectorForAnnotation = ( cell, annotation) => {
-        let cellAttr = 'data-code-cell="' + cell + '"';
-        let lineAttr = 'data-code-annotation="' +  annotation + '"';
-        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
-        return selector;
-      }
-      const selectCodeLines = (annoteEl) => {
-        const doc = window.document;
-        const targetCell = annoteEl.getAttribute("data-target-cell");
-        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
-        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
-        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
-        const lineIds = lines.map((line) => {
-          return targetCell + "-" + line;
-        })
-        let top = null;
-        let height = null;
-        let parent = null;
-        if (lineIds.length > 0) {
-            //compute the position of the single el (top and bottom and make a div)
-            const el = window.document.getElementById(lineIds[0]);
-            top = el.offsetTop;
-            height = el.offsetHeight;
-            parent = el.parentElement.parentElement;
-          if (lineIds.length > 1) {
-            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
-            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
-            height = bottom - top;
-          }
-          if (top !== null && height !== null && parent !== null) {
-            // cook up a div (if necessary) and position it 
-            let div = window.document.getElementById("code-annotation-line-highlight");
-            if (div === null) {
-              div = window.document.createElement("div");
-              div.setAttribute("id", "code-annotation-line-highlight");
-              div.style.position = 'absolute';
-              parent.appendChild(div);
-            }
-            div.style.top = top - 2 + "px";
-            div.style.height = height + 4 + "px";
-            div.style.left = 0;
-            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
-            if (gutterDiv === null) {
-              gutterDiv = window.document.createElement("div");
-              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
-              gutterDiv.style.position = 'absolute';
-              const codeCell = window.document.getElementById(targetCell);
-              const gutter = codeCell.querySelector('.code-annotation-gutter');
-              gutter.appendChild(gutterDiv);
-            }
-            gutterDiv.style.top = top - 2 + "px";
-            gutterDiv.style.height = height + 4 + "px";
-          }
-          selectedAnnoteEl = annoteEl;
-        }
-      };
-      const unselectCodeLines = () => {
-        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
-        elementsIds.forEach((elId) => {
-          const div = window.document.getElementById(elId);
-          if (div) {
-            div.remove();
-          }
-        });
-        selectedAnnoteEl = undefined;
-      };
-        // Handle positioning of the toggle
-    window.addEventListener(
-      "resize",
-      throttle(() => {
-        elRect = undefined;
-        if (selectedAnnoteEl) {
-          selectCodeLines(selectedAnnoteEl);
-        }
-      }, 10)
-    );
-    function throttle(fn, ms) {
-    let throttle = false;
-    let timer;
-      return (...args) => {
-        if(!throttle) { // first call gets through
-            fn.apply(this, args);
-            throttle = true;
-        } else { // all the others get throttled
-            if(timer) clearTimeout(timer); // cancel #2
-            timer = setTimeout(() => {
-              fn.apply(this, args);
-              timer = throttle = false;
-            }, ms);
-        }
-      };
-    }
-      // Attach click handler to the DT
-      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
-      for (const annoteDlNode of annoteDls) {
-        annoteDlNode.addEventListener('click', (event) => {
-          const clickedEl = event.target;
-          if (clickedEl !== selectedAnnoteEl) {
-            unselectCodeLines();
-            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
-            if (activeEl) {
-              activeEl.classList.remove('code-annotation-active');
-            }
-            selectCodeLines(clickedEl);
-            clickedEl.classList.add('code-annotation-active');
-          } else {
-            // Unselect the line
-            unselectCodeLines();
-            clickedEl.classList.remove('code-annotation-active');
-          }
-        });
-      }
   const findCites = (el) => {
     const parentEl = el.parentElement;
     if (parentEl) {
@@ -915,7 +625,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
-
 
 
 
