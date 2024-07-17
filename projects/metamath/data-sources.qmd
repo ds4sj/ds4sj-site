@@ -1,0 +1,7 @@
+---
+title: Data Sources
+---
+
+1. Ron Buckmire, Carrie Diaz Eato, Joseph E. Hibdon Jr., Jakini Kauba, Drew Lewis, Omayra Ortega, Jose Pabon, Rachel Roca, and Andrés R. Vindas-Meléndez. (2024).
+[Data for "Quantifying and Documenting Inequities in PhD-granting Mathematical Sciences Departments in the United States"](https://osf.io/bxh24/).
+

@@ -8,3 +8,5 @@ To learn more about what we're doing, check out our [Meta Metmath page](meta-met
 Our communication happens primarily through Slack. To join in the conversation, use this [link](http://mcasj.slack.com) to be added to the *Mathematical and Computational Approaches to Social Justice* workspace. We use the channel #metamath2.
 
 See our [bibliography page](bibliography.qmd) for a list of presentations and publications by our working group, as well as a list of related work.
+
+We are also beginning to curate a [list of data sources](data-sources.qmd) that have been or may be useful in conducting this kind of work.
