@@ -1,0 +1,24 @@
+---
+title: Meta Metamath
+---
+
+## Nomenclature
+MetaMath is a community of practice consisting of mathematicians (broadly construed) interested in promoting social justice in the mathematical sciences community, broadly defined, through the production of knowledge and insight gained through quantitative and qualitative analysis of data about the mathematical sciences community.
+
+## Definition
+MetaMath is a quantitative justice project that uses mathematics, data science, and social science and applies them to the mathematical sciences community itself, in order to promote social justice. Quantitative justice is “the application of techniques, tools and topics from the quantitative sciences in subject domains that are derived from (or typically associated with) the social sciences with the explicit goal of promoting social justice.”
+
+## Assumptions and Beliefs
+* Everyone has value and can contribute to the mathematical sciences community regardless of their ethnicity, race, gender, neurological profile, sexual orientation, academic standing, career stage, etc.
+* Mathematical ability and talent is universally distributed, opportunity to participate in the mathematical sciences community is not.
+* Equity, diversity and inclusion are imperative to the success of any enterprise, including this one.
+* Bringing together different disciplines, sub-fields, and traditions for interdisciplinary research is a strength, and belongs in the mathematical sciences.
+
+## Goals and Objectives
+_MetaMath’s primary goal is to promote JAIDE (Justice, Access, Inclusion, Diversity, Equity) in Mathematics by uncovering, documenting, and highlighting inequities. We intend to do this by:_
+
+* Making information about the mathematical sciences community more precise, transparent, accessible and well-known (i.e., more people will know more about the mathematical sciences community itself). 
+* Disrupting the pervasive (hierarchical, patriarchal, eurocentric, etc.) narratives and norms in the mathematical sciences community.
+* Elevating the diverse voices and experiences of folks in the mathematical science community and acknowledge and highlight the barriers underrepresented community members face.
+* Using quantification and data to establish benchmarks and metrics needed to document the status quo and catalyze change.
+* Demonstrate by example that the mathematical sciences can be used to promote social justice and have quantifiable real-world (positive) impacts.
